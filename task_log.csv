@@ -1,0 +1,2 @@
+match_point_barrio,Bogota_points,v1.0,E:/Dissertation/XGBoost_cleaning/2016central_Mask2Former_with_geo,E:/Dissertation/XGBoost_cleaning/2016central_Mask2Former_with_geobarrio,done,1220.35,每200个point生成一个batch，匹配Barrios社区+UPZ
+match_point_barrio,Bogota_points,v1.0,E:/Dissertation/XGBoost_cleaning/2016central_Mask2Former_with_geo,E:/Dissertation/XGBoost_cleaning/2016central_Mask2Former_with_geobarrio,done,1220.35,每200个point生成一个batch，匹配Barrios社区+UPZ
