@@ -79,3 +79,17 @@
 
 ================分割线================
 
+**任务名称**: calculate population on barrio
+**任务文件**: barrio_population_calculate.ipynb
+**文件路径**: CASA0004arrio_population_calculate.ipynb
+**数据集**: 2016 Barrio & 2018 cencus on MANZANA
+**代码版本**: v1.0_G, (first part of geo cleaning)
+**输入目录**: E:\Dissertation\CASA0004\Barrios_will_UPZ.geojson
+**输出目录**: E:/Dissertation/XGBoost_cleaning/barrio_with_population
+**状态**: 完成，存在少量很恐怖的异常值
+**耗时**: 43.2
+**备注**: 1.用barrio边界与manzana，按地理位置聚合，计算barrio的人口并且记录在"population"里面。2.如果街区完全包含了manzana，那就把全部的人口都算给它，如果没完全包含，就算[manzana总人口*(重叠面积/manzana的面积(这个数据记录在manzana的shape_area里面))]，四舍五入；3.完成后计算barrio的人口密度，为population/shape_area(这个是barrio数据集的shape_area)
+**记录时间**: 2025-08-16 21:04:03
+
+================分割线================
+
