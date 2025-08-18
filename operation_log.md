@@ -121,3 +121,7 @@
 
 ================分割线================
 
+任务名称: central_detect_G&G 任务文件: RF_DETR_medium_G&G 文件路径: colab_RF_DETR_medium_G&G 数据集: 2016 central SVI 代码版本: v1.0_R, (first part of re_detr) 输入目录: /content/drive/MyDrive/Dissertation2/2016south_image_final 输出目录: /content/drive/MyDrive/Dissertation2/2016south_image_final_GG 状态: 南部识别涂鸦垃圾完成 耗时: 2h 备注: 输出json，包含垃圾和涂鸦数量，每200张图片分一个batch保存 记录时间: 2025-08-18 18:15:19
+
+================分割线================
+
