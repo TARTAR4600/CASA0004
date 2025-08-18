@@ -107,3 +107,17 @@
 
 ================分割线================
 
+**任务名称**: 转为CSV
+**任务文件**: barrio_population_calculate2.0.ipynb
+**文件路径**: CASA0004arrio_population_calculate2.0.ipynb
+**数据集**: 2016 JSON & 2016 barrio with pop density
+**代码版本**: v1.2_G, (2 part of geo cleaning)
+**输入目录**: E:\Dissertation\XGBoost_cleaning\2016central_Mask2Former_with_geobarriokilling_SelectedSegClass
+**输出目录**: E:\Dissertation\XGBoost_cleaning\2016central_Mask2Former_with_geobarriokilling_SelectedSegClass_Transtocsv
+**状态**: 完成，只输出了当前区块的brrio
+**耗时**: 50s
+**备注**: 1.把每张图片的fence,wall,Road,Sidewalk,Building,Person,Bicyclist,Motorcyclist,Other Rider,Sky,Vegetation,Street Light这些离散的segement转为比率与计数变量,比率变量：fence,wall,Road,Sidewalk,Building,Sky,Vegetation（在一张图片里面的占比，字段形如"area_ratio": 0.310933），计数变量: Person,Bicyclist,Motorcyclist,Other Rider,Street light提取它在一张图片，（一个json里面的出现次数）,json里面的经纬度，upz码等变量请保留，在这一步完成后输出一个csv,一行是一个json的信息2.以barrio名称为group的依据，计算各项在某barrio下的平均值,一个barrio为一行，上述的各个变量为列；按照barrio名匹配geojson（这个json里面有人口数和密度数据）用图片识别输出json里面我整合过的谋杀量去除barrio json里面的population算谋杀率出来，这个是因变量3.在以上分组匹配完成后输出一个能进XGBoost的csv
+**记录时间**: 2025-08-18 17:58:04
+
+================分割线================
+
