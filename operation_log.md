@@ -139,3 +139,84 @@
 
 ================分割线================
 
+**任务名称**: join kill count
+**任务名称**: join kill count
+**任务文件**: CASA0004JSON_match_homicide_count copy.ipynb
+**任务名称**: join kill count
+**任务文件**: 03JSON_match_homicide_count copy.ipynb
+**文件路径**: CASA0004JSON_match_homicide_count copy.ipynb
+**数据集**: Bogota_points
+**代码版本**: v1.1(based on json_interselect.ipynb)
+**输入目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarrio
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarriokilling
+**状态**: 完成，north匹配完成，投影正确
+**耗时**: 2min
+**备注**: 南部区块-保持原有batch结构，增加了杀人数量字段(Cantidad)，用Matched_Barrio和json里面的barrio字段匹配，匹配前要把json里面的都变小写
+**任务名称**: join kill count
+**任务文件**: 03JSON_match_homicide_count copy.ipynb
+**文件路径**: CASA0004JSON_match_homicide_count copy.ipynb
+**数据集**: Bogota_points
+**代码版本**: v1.1(based on json_interselect.ipynb)
+**输入目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarrio
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarriokilling
+**状态**: 完成，north匹配完成，投影正确
+**耗时**: 2min
+**备注**: 南部区块-保持原有batch结构，增加了杀人数量字段(Cantidad)，用Matched_Barrio和json里面的barrio字段匹配，匹配前要把json里面的都变小写
+**记录时间**: 2025-08-19 14:02:35
+
+================分割线================
+
+**任务名称**: join kill count
+**任务文件**: 03JSON_match_homicide_count.ipynb
+**文件路径**: CASA0004JSON_match_homicide_count.ipynb
+**数据集**: Bogota_points
+**代码版本**: v1.1(based on json_interselect.ipynb)
+**输入目录**: E:/Dissertation/XGBoost_cleaning/2016south_Mask2Former_with_geobarrio
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016south_Mask2Former_with_geobarriokilling
+**状态**: 完成，south匹配完成，投影正确
+**耗时**: 2min
+**备注**: 南部区块-保持原有batch结构，增加了杀人数量字段(Cantidad)，用Matched_Barrio和json里面的barrio字段匹配，匹配前要把json里面的都变小写
+**记录时间**: 2025-08-19 14:03:18
+
+================分割线================
+
+**任务名称**: filter_north
+**数据集**: 2016central_Mask2Former_with_geobarriokilling
+**代码版本**: v1.3(third part of cleaning)
+**输入目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarriokilling
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarriokilling_SelectedSegClass
+**状态**: 北部街景语义类别删选完成
+**耗时**: 1m57s
+**备注**: 保持原有batch结构,只保留fence,wall,Road,Sidewalk,Building,Person,Bicyclist,Motorcyclist,Other Rider,Sky,Vegetation,Street Light相关字段
+
+================分割线================
+
+**任务名称**: match_point_barrio
+**数据集**: Bogota_points
+**代码版本**: v1.0
+**输入目录**: E:\Dissertation\XGBoost_cleaning\2016north_Mask2Former_with_geo_batched
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016north_Mask2Former_with_geobarrio
+**状态**: finished，北部街景语义分割json匹配barrio
+**耗时**: 1558.7402393817902
+**备注**: 匹配Barrios社区+UPZ
+
+================分割线================
+
+**任务名称**: filter_south
+**数据集**: 2016south_Mask2Former_with_geobarriokilling
+**代码版本**: v1.3(third part of cleaning)
+**输入目录**: E:/Dissertation/XGBoost_cleaning/2016south_Mask2Former_with_geobarriokilling
+**输出目录**: E:/Dissertation/XGBoost_cleaning/2016south_Mask2Former_with_geobarriokilling_SelectedSegClass
+**状态**: 南部街景语义类别删选完成
+**耗时**: 1m57s
+**备注**: 保持原有batch结构,只保留fence,wall,Road,Sidewalk,Building,Person,Bicyclist,Motorcyclist,Other Rider,Sky,Vegetation,Street Light相关字段
+
+================分割线================
+
+**任务名称**: 人工检查2024各组数据集情况
+**Central**: 正在补下载17438-23999图像，用于识别GG，注意，文件夹中Chao未展平，但是M2F狗日的识别出来的是展平过的...（也就是说GG那边的识别就只需要展平和加上17438-23999就行了）
+**South** 完整，可以匹配地理位置，但是未展平，正在展平中，但是M2F狗日的识别出来的是展平过的（也就是说GG那边的识别就只需要展平和就行了）
+**North** 完整，已全部展平，正在识别GG 与 M2F
+**Conclusion** M2F街景等北边下载完了就可以作为验证集了，差GG而已
+**Time** 202508191552
+**注意！！！** 缺2016三个区域的业态和住宅！！！
