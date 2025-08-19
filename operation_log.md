@@ -125,3 +125,17 @@
 
 ================分割线================
 
+**任务名称**: 转为CSV
+**任务文件**: barrio_population_calculate2.0.ipynb
+**文件路径**: CASA0004arrio_population_calculate2.0.ipynb
+**数据集**: 2016 JSON & 2016 barrio with pop density
+**代码版本**: v1.2_G, (2 part of geo cleaning)
+**输入目录**: E:\Dissertation\CASA0004\barrio_pop_density_clenaed.geojson
+**输出目录**: E:\Dissertation\CASA0004\barrio_pop_density_street_estra_clenaed_reproject.geojson
+**状态**: 完成，初始版本投影有误，街长与面积比例是正确，但是可能不是实际值reproject版本应该会好
+**耗时**: 40min
+**备注**: 0.数据以barrio为每一行进行组织，再进行前确保每个图层都位于EPSG4684坐标下。1.每个barrio新建6列记载estra信息的列，分别为0-6，这个信息能在geojson的"ESTRATO"这一栏找到；每一列赋值为barrio中包含或重合某类menzana的面积占比；2.计算barrio中所有不同种类街道长度，并且求出总长。街道种类记载在"MVITipo"字段中，计算出总长后再求不同类型街道长度占比。
+**记录时间**: 2025-08-19 10:30:12
+
+================分割线================
+
