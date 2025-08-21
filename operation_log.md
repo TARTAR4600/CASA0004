@@ -240,3 +240,41 @@
 E:\Dissertation\CASA0004\merged_no_geom_unique_with_correct_homo_manual_clean.csv
 全正样本：
 E:\Dissertation\CASA0004\merged_no_geom_unique_with_correct_homo_manual_clean_noNA_normaldens_forXGBOOST_allpos.csv
+**任务名称**: 聚合垃圾与涂鸦文件
+**数据集**: gg& map_name_geo& barrio_with_geo
+**代码版本**: v1.0_GG, (first part of GG cleaning)
+**输入目录**: E:\Dissertation\XGBoost_cleaning\2016central_GG_match_barrio_output2
+**输出目录**: E:\Dissertation\XGBoost_cleaning\2016central_GG_match_barrio_output2
+**状态**: finished,分别存在三个文件夹
+**耗时**: nan
+**备注**: []
+
+================分割线================
+**任务名称**20250820, 南部所有图像已经展平了。
+**任务名称**20250820, 中部所有图像已经补完了。
+**任务名称**20250820, 中部北部南部2016所有图像识别商铺完成
+
+================分割线================
+
+**任务名称** "聚合商业文件"
+notebook_name = "10_commercial_cleaning_opy.ipynb"  # 不带扩展名
+notebook_path = "E:\Dissertation\CASA0004\10_commercial_cleaning_opy.ipynb"  # 完整路径
+dataset = "commercial_json& barrio_with_geo"
+code_version = "v1.0_GG, (first part of commercial cleaning)"
+
+# ===== 使用 {} 作为占位符，替换为不同区块（例如 central, north, south） =====
+input_dir = r"E:\Dissertation\CASA0004\2016south_commercial_summary.json"  # 输入文件夹 
+barrio_dir = r"E:/Dissertation/XGBoost_cleaning/Barrios_will_UPZ.geojson"
+output_dir = r"E:\Dissertation\XGBoost_cleaning\2016south_GG_match_barrio_output2"  # 输出文件夹
+
+note = (
+
+    "按照input_dir文件中记载的经纬度信息longitude,latitude，给这些json和barrio的geojson位置取交集，"
+    "判断它们属于哪个barrio，加上barrio字段（barrio的json里面记录名称的字段为：barriocomu）,和upz字段(codigo_upz)。"
+    "这个操作结束后，带上前几步的信息为每张原始json在输出路径中生成新的json，要分批。"
+    "4.按照barrio字段groupby，对predictions进行sum，输出一个csv。"
+)
+
+**输出目录**result.to_csv(r"E:\Dissertation\CASA0004\2016commercial_merged")
+
+================分割线================

@@ -1,0 +1,1581 @@
+,barrio,count_objects_sum
+0,11 de Noviembre,15
+1,12 de Octubre,153
+2,12 de Octubre - Alcabaza,0
+3,Abraham Lincoln,1
+4,Abraham Lincon,62
+5,Acacias Usaquén,4
+6,Acapulco_,7
+7,Acegrasas,0
+8,Acevedo Tejada,45
+9,Acuarela I,0
+10,Agua Dulce,0
+11,Aguas Claras,70
+12,Alameda,94
+13,Alcalá,123
+14,Alejandría,2
+15,Alfonso López,187
+16,Alicante I y II,3
+17,Almendros de Suba,2
+18,Almonacid,45
+19,Alquería La Fragua,17
+20,Alquería La Fragua Santa Yolanda,49
+21,Alquería de la Fragua,78
+22,Alsacia,3
+23,Altos de Jalisco,0
+24,Altos de San Sebastián,0
+25,Altos de la Esperanza I Sector,25
+26,Americas Occidental,0
+27,Amparo Cañizares,5
+28,Andalucía,16
+29,Andalucía II,2
+30,Andalucía II Sector,21
+31,Andalucía_,16
+32,Andes Norte - Las Palmas de la Flora,1
+33,Andes Norte - Urb. Av. Suba II Etapa,4
+34,Antonio Morales Galvis,3
+35,Arboleda del Country,0
+36,Arbolete,2
+37,Arborizadora Alta,0
+38,Arborizadora Baja,49
+39,Arenera Buenavista,0
+40,Argelia,0
+41,Armenia,50
+42,Atahualpa,0
+43,Atenas,9
+44,Aures I,17
+45,Aures II,14
+46,Autopista Sur,2
+47,Avenida Caracas,4
+48,Avenida Décima,17
+49,Ayacucho I,37
+50,Babilonia,86
+51,Bachue I y II,95
+52,Bahía Solano,7
+53,Balcones de Oriente,2
+54,Balcones de Vista Hermosa,6
+55,Balmoral Norte,10
+56,Banco Central,199
+57,Banderas,0
+58,Baquero,108
+59,Barcelona,100
+60,Barcelona - Urb. Los Eucaliptos,1
+61,Barcelona Sur Oriental,0
+62,Barrancas,0
+63,Barrancas Norte,62
+64,Barrancas Oriental - Servita,0
+65,Barrancas Perlas del Norte,49
+66,Barranquillita,20
+67,Barrio El Tintal,55
+68,Batallón Caldas,1
+69,Batan Lote Niza XII,0
+70,Bavaria I Sector,0
+71,Bavaria Techo,89
+72,Bavaria Techo II Sector,55
+73,Bavaria Techo III,121
+74,Belalcazar,57
+75,Bella Suiza,53
+76,Bella Vista,0
+77,Bellavista,119
+78,Bellavista - El Salitre,0
+79,Bellavista - Urb. El Castillo,1
+80,Bellavista Los Pantanos,0
+81,Bellavista Sector Lucero,0
+82,Bellavista Sector Santa Cecilia,0
+83,Bellavista Sur Oriental,0
+84,Bellavista y Unicerros,0
+85,Bellavista_,96
+86,Belmira,2
+87,Belén,33
+88,Benjamín Herrera,179
+89,Bernal y Forero,103
+90,Biblioteca Virgilio Barco,1
+91,Bocacolina El Cedro,4
+92,Bochica Compartir,0
+93,Bochica I y II Sector,0
+94,Bochica II,2
+95,Bochica IV Etapa,0
+96,Bochica Puente Aranda,42
+97,Bolivia Oriental,5
+98,Bolivia Oriental II Etapa,3
+99,Bolivia Oriental III Etapa,0
+100,Bolivia Sector Occidental,0
+101,Bosque Calderón Tejada 2,0
+102,Bosque Calderón Tejada III Sector,0
+103,Bosque El Retiro I Sector,1
+104,Bosque Izquierdo,0
+105,Bosque Popular - El Trébol,6
+106,Bosque de Modelia,3
+107,Bosque de Pinos III,5
+108,Bosque de Soratama,0
+109,Bosque de los Urapanes,0
+110,Bosques de Granada,15
+111,Bosques de Kennedy,52
+112,Bosques de Mariana,191
+113,Bosques de Normandia,0
+114,Bosques de San Jorge Suba,2
+115,Bosques del Portal,0
+116,Bosques del Salitre,0
+117,Brisas del Galán,12
+118,Britalia - El Pijao de Oro,0
+119,Britalia - El Tibon Albacete,0
+120,Britalia - Las Margaritas,5
+121,Britalia Las Margaritas,18
+122,Britalia San Diego 2,17
+123,Buenavista,69
+124,Buenavista II_Sector,0
+125,Buenavista La Estrellita II,32
+126,Burgos Britalia,1
+127,Cabañas del Norte,1
+128,Calamari,0
+129,Calandaima,48
+130,Calandaima - Los Pantanos,25
+131,Calarca I y II,27
+132,California,54
+133,Calima Norte,2
+134,Cama Vieja,18
+135,Camavieja,5
+136,Camelia II Sector,0
+137,Camelia Sur IV Sector,0
+138,Camilo Torres,0
+139,Campanella,0
+140,Campin Occidental,8
+141,Campiña del Restrepo,1
+142,Campo Hermoso,2
+143,Campo_Hermoso,102
+144,Campos de Silencio,5
+145,Canadá San Luís,1
+146,Canadá la Guira II Sector,1
+147,Canaima,0
+148,Candelaria la Nueva,75
+149,Cantagallo - Carmel Club Campestre,3
+150,Cantalejo,38
+151,Canódromo,2
+152,Canódromo - Urb. Atabanza,7
+153,Canódromo - Urb. Tierra Linda,3
+154,Caobos Salazar,55
+155,Caobos Salazar Urb. Capri I y II Sector,4
+156,Capellanía,7
+157,Caracas,17
+158,Carimagua I Sector,0
+159,Carlos Lleras Restrepo,0
+160,Carolina Oriental,0
+161,Carvajal,493
+162,Carvajal II,5
+163,Casa Blanca I,8
+164,Casa Blanca II,0
+165,Casa Rey,0
+166,Casablanca (Hacienda),0
+167,Casablanca - Urb. Manuel Mejia,8
+168,Casablanca I,0
+169,Casablanca Sector Bellavista,5
+170,Casablanca Sector El Plan,0
+171,Casablanca Suba  - Valparaíso,0
+172,Castañuela II,3
+173,Castilla,221
+174,Castilla Real,25
+175,Castilla Real - Santa Maria de los Ángeles,6
+176,Castilla la Nueva,2
+177,Catalina,2
+178,Cedritos,145
+179,Cedro Bolívar,33
+180,Cedro Bolívar II Sector,25
+181,Cedro Madeira,0
+182,Cedro Narváez,11
+183,Cedro Norte,0
+184,Cedro Salazar,44
+185,Cementerio Jardines Apogeo,3
+186,Centenario,5
+187,Centro Administrativo,115
+188,Centro Administrativo Occidental - CAN,2
+189,Centro Industrial,113
+190,Centro Industrial de Construcción,1
+191,Centro Nariño,14
+192,Centro Norte Usaquén,0
+193,Cerros Norte,6
+194,Cerros de Niza,0
+195,Cerros de Santa Bárbara,1
+196,Chaparral,0
+197,Chapinerito,3
+198,Chapinero Occidental,332
+199,Chico Alto,0
+200,Chico Norte - Urb. Conjunto de la Cien,0
+201,Chico Norte - Urb. La Gran Vía,0
+202,Chico Oriental,0
+203,Chico Reservado,16
+204,Chico Reservado II Sector,87
+205,Ciudad Bachue II Etapa,26
+206,Ciudad Berna,53
+207,Ciudad Granada,68
+208,Ciudad Hunza,2
+209,Ciudad Hunza - El Jordán,6
+210,Ciudad Jardín Norte,232
+211,Ciudad Jardín del Sur,269
+212,Ciudad Kennedy Centro Cívico,68
+213,Ciudad Kennedy Norte,13
+214,Ciudad Kennedy Norte Supermanzana 9 A,15
+215,Ciudad Kennedy Norte Supermanzana 9B,18
+216,Ciudad Kennedy Norte Urb. Francisco José De Caldas,1
+217,Ciudad Kennedy Oriental Supermanzana 16,65
+218,Ciudad Kennedy Oriental Supermanzana 2,1
+219,Ciudad Kennedy Oriental Supermanzana 5,2
+220,Ciudad Kennedy Oriental Supermanzana 6,18
+221,Ciudad Kennedy Supermanza 12,0
+222,Ciudad Kennedy Supermanzana 1,4
+223,Ciudad Kennedy Supermanzana 11,89
+224,Ciudad Kennedy Supermanzana 13 San Jorge,15
+225,Ciudad Kennedy Supermanzana 3,1
+226,Ciudad Kennedy Supermanzana 7,22
+227,Ciudad Kennedy Supermanzana 8,52
+228,Ciudad Montes III Sector,119
+229,Ciudad Mónaco,5
+230,Ciudad Salitre,15
+231,Ciudad Salitre - Urb. Industrial Los Cambulos,3
+232,Ciudad Salitre 3 A. Etapa,10
+233,Ciudad Salitre Nororiental,27
+234,Ciudad Salitre Occidental,32
+235,Ciudad Salitre Suroriental,2
+236,Ciudad Techo I,1
+237,Ciudad Techo II,11
+238,Ciudad Universitaria,5
+239,Ciudad de Cali,21
+240,Ciudad_Salitre,12
+241,Ciudadela Colsubsidio,11
+242,Ciudadela Colsubsidio 4 Sector,0
+243,Ciudadela Industrial El Dorado,30
+244,Ciudadela Maria Micaela,0
+245,Ciudadela Real,1
+246,Class,29
+247,Club de Empleados Oficiales,0
+248,Coasmedas,7
+249,Colina Campestre I Sector,40
+250,Colina Campestre IV Sector,96
+251,Colombia,345
+252,Colon,258
+253,Colpatria Santa Helena,5
+254,Colpatria Santa Helena II Sector,2
+255,Colseguros,0
+256,Compartir Suba,2
+257,Concepción Norte,122
+258,Congreso Eucarístico,15
+259,Cooperativa de Sub-Oficiales,0
+260,Corabastos,0
+261,Corpacero,12
+262,Costa Azul I Etapa,10
+263,Costa Azul II Etapa,48
+264,Costa Azul III Etapa,36
+265,Costa Rica,30
+266,Country Club,5
+267,Country Comodoro,0
+268,Cundinamarca,18
+269,Danubio Centauros,31
+270,Danubio Occidental,8
+271,Delicias del Carmen,16
+272,Desarrollo Villa Blanca,0
+273,Diana Carolina,9
+274,Dindalito I Etapa,1
+275,Don Manuel - Los Arrayanes,5
+276,Dorado Norte,4
+277,Dorado_Norte,4
+278,Eduardo Frei,0
+279,Eduardo Santos,132
+280,Egipto,0
+281,Egipto 2,2
+282,El Amparo,196
+283,El Arpa y La Lira,0
+284,El Batan,32
+285,El Batan - Belomar,0
+286,El Bogotano II,2
+287,El Campin,120
+288,El Carmen,45
+289,El Carmen Tuna Baja,0
+290,El Carmen_,38
+291,El Cerro Occidental,3
+292,El Cerro Parte Baja (Villa Nydia),3
+293,El Charco,15
+294,El Codito,17
+295,El Condado de la Paz,0
+296,El Consuelo,1
+297,El Contador,283
+298,El Cortijo (Finca),0
+299,El Danubio,20
+300,El Delirio,5
+301,El Divino Salvador,0
+302,El Doradito,0
+303,El Dorado Industrial - Santa Isabel (Hacienda),2
+304,El Edén,17
+305,El Ejido,46
+306,El Encanto,3
+307,El Encanto - Portales de Confenalco,0
+308,El Encanto - Urb. Aerolandia,0
+309,El Encanto - Urb. Los Nogales,0
+310,El Encenillal,0
+311,El Escorial,3
+312,El Estoril,1
+313,El Gaco - El Porvenir (Predio),68
+314,El Guavio,3
+315,El Imperio,7
+316,El Jazmín I Sector,101
+317,El Jazmín II Sector,13
+318,El Jordán I,7
+319,El Jordán I y III,2
+320,El Jordán II,0
+321,El Jordán La Esperanza,0
+322,El Laurel - La Europa,22
+323,El Listón,40
+324,El Llanito,13
+325,El Llano (Lote),0
+326,El Lucero,22
+327,El Lujan,21
+328,El Manantial,63
+329,El Minuto de Dios,67
+330,El Minuto de Dios - La Catalina,2
+331,El Minuto de Dios - Los Lagos,0
+332,El Minuto de Dios - Urb. Lorena,1
+333,El Mirador II,22
+334,El Mirador Sur I y II,0
+335,El Mirador de Suba Salitre Norte,4
+336,El Moral,0
+337,El Muelle I,9
+338,El Muelle II,24
+339,El Nogal,6
+340,El Olivo,60
+341,El Otoño,19
+342,El Palmar I y II,18
+343,El Palmar III,0
+344,El Palmar IV,5
+345,El Paraíso,1
+346,El Paraíso Sur Oriental I Sector,0
+347,El Paraíso_,3
+348,El Paseo,2
+349,El Patio III Sector,13
+350,El Pañuelito,0
+351,El Pinar,21
+352,El Pinar de Suba,0
+353,El Pinar de Suba II,3
+354,El Pino,15
+355,El Pireo,1
+356,El Pite,3
+357,El Portal de Patio Bonito,0
+358,El Portal del Divino,1
+359,El Porvenir II_Sector,6
+360,El Porvenir Norte - Granada Norte,0
+361,El Porvenir_,0
+362,El Progreso,168
+363,El Progreso II,1
+364,El Progreso II Sector,12
+365,El Progreso_,0
+366,El Proveedor,1
+367,El Puerto La Loma de San Carlos,29
+368,El Real,18
+369,El Recodo y Petaluna,5
+370,El Redil,0
+371,El Refugio,2
+372,El Refugio La Zelfita,9
+373,El Refugio de San Antonio,19
+374,El Retazo,0
+375,El Retiro - Villa Andina,12
+376,El Rincón - Urb. San Gabriel,14
+377,El Rincón Santa Helena,1
+378,El Rincón de Iberia,0
+379,El Rincón de las Villas,0
+380,El Rincón de los Ángeles,18
+381,El Rosario,20
+382,El Ruby,30
+383,El Rubí de San Bernardo,2
+384,El Salitre,9
+385,El Salitre A.S.D.,1
+386,El Salitre IV Sector,1
+387,El Salitre Sector Luís Maria Fernández,12
+388,El Santuario,3
+389,El Saucedal,68
+390,El Socorro,16
+391,El Sol,90
+392,El Sosiego,5
+393,El Tablón,0
+394,El Tintal,23
+395,El Tintal A.S.D.,9
+396,El Tintal La Pampa II,7
+397,El Tintalito Frigorifico San Martin De Porees LTDA,0
+398,El Triunfo de las Americas,0
+399,El Triángulo,5
+400,El Triángulo Ciudad Techo,0
+401,El Uval,0
+402,El Uval II Sector,0
+403,El Verbenal - Urb. Alquería 183,2
+404,El Verbenal I,182
+405,El Verbenal II Sector,64
+406,El Verdun,40
+407,El Vergel,11
+408,El Vergel La Promesa,2
+409,El Vergel Occidental,12
+410,El Vergel_,47
+411,El_Castillo,8
+412,El_Consuelo,2
+413,El_Cortijo,0
+414,El_Dorado,0
+415,El_Jardín,106
+416,El_Laurel,3
+417,El_Lucero,13
+418,El_Mortiño,24
+419,El_Portal,9
+420,El_Pénsil,17
+421,El_Recuerdo,116
+422,El_Rosario,30
+423,El_Salitre,20
+424,El_Triángulo,2
+425,El_Triángulo_,20
+426,El_Vergel,0
+427,Engativa - La Verbena Villa Viviana,32
+428,Engativa - Urb. Muisca II,13
+429,Entrerios,5
+430,Entrerios - Urb. Alma Industrial,5
+431,Escuela General Santander,0
+432,Escuela Militar,1
+433,Escuela de Caballería,0
+434,Escuela de Caballería II,0
+435,Escuela de Carabineros,0
+436,Escuela de Infantería,13
+437,Española III Sector,26
+438,Estación Central,49
+439,Estradita Ciudad de Honda,0
+440,Estrella,68
+441,Estrella del Norte,262
+442,Fabrica de Loza,0
+443,Fabrica de_Loza,0
+444,Favidi,6
+445,Fe y Alegría,5
+446,Ferrocaja_,0
+447,Finca Moraga (Barracas),6
+448,Floralia I Sector,16
+449,Floralia II Sector,1
+450,Florencia,5
+451,Florencia 2,0
+452,Floresta del Sur,79
+453,Florida,33
+454,Florida - Panamericano,4
+455,Florida Blanca,89
+456,Franco,57
+457,Fátima,104
+458,Galerías,358
+459,Galán,292
+460,Galán - El Portal del Castillo,1
+461,Galán - Urb. Los Arrayanes,0
+462,Galán - Urb. Los Bungaviles,6
+463,Garcés Navas,307
+464,Garcés Navas Oriental - Urb. El Pireo,9
+465,Gilmar,120
+466,Gilmar II,0
+467,Ginebra,3
+468,Ginebra Norte,9
+469,Glorieta de las Americas,0
+470,Gorgonzola,65
+471,Gran América,20
+472,Gran América - El Parque,3
+473,Gran América - Multifamiliares Futura,7
+474,Gran Granada,17
+475,Gran Granada II Etapa,1
+476,Gran Yomasa I,0
+477,Granada Norte,21
+478,Granada Sur,2
+479,Granjas de Techo,120
+480,Gratamira,0
+481,Guadalupe,2
+482,Guadual,4
+483,Guaitiquia,42
+484,Guicani,2
+485,Guillermo Núñez,1
+486,Gustavo Restrepo,193
+487,Hacienda Los Molinos,0
+488,Hato Chico II (Predio),0
+489,Hermanos Barragán,0
+490,Hipotecho Occidental,56
+491,Hipotecho Occidental II,9
+492,Hipotecho Occidental III,34
+493,Hipólito Restrepo,23
+494,Horizonte Salitre,21
+495,Horizontes,35
+496,Horizontes Usaquén,5
+497,Huertos de la Estancia,0
+498,Iberia,3
+499,Iberia - Altamira,0
+500,Iberia - Granada,9
+501,Iberia - Villa Leticia,0
+502,Iberia Portoalegre,17
+503,Iberia Segovia,0
+504,Ibiza,1
+505,Ilarco - Los Molinos de Ilarco,39
+506,Industrial Centenario,102
+507,Industrias Thury Ltda.,0
+508,Inmunizadora de Maderas,0
+509,Interindustrial - El Vergel,0
+510,Inzuca,28
+511,J.J. Vargas - José Joaquín Vargas,37
+512,Jaime Bermeo,2
+513,Japón,73
+514,Jardines de Oriente,10
+515,Jardín Norte,41
+516,Java I Sector,17
+517,Java II Sector,0
+518,Java II Sector 2,61
+519,Jerusalén,16
+520,Jorge Eliécer Gaitan,150
+521,Jorge Gaitan Cortes,1
+522,José Antonio Galán,19
+523,Juan Pablo,0
+524,Juan XXIII,112
+525,Julio Cesar Turbay - S.C. San Francisco Rural,0
+526,Julio Florez,20
+527,Julio Florez - Centro Industrial Bodegones la 68,13
+528,Julio Florez - Urb. Ingrura,1
+529,Julio Florez - Urb. Ocasa,3
+530,Kalatea,0
+531,Kasandra,0
+532,Kennedy Norte Supermanzana 12 A,13
+533,Kennedy Occidental Supermanzana 14,101
+534,Kennedy Supermanzana 15,141
+535,Kennedy Supermanzana 6 A,18
+536,Kennedy Supermanzana 6 B,4
+537,Kennedy Sur Supermanzana 10,17
+538,La Alameda,280
+539,La Alborada,32
+540,La Alejandra Barrancas,10
+541,La Alhambra Sector Norte,1
+542,La Alhambra Sector Sur,24
+543,La Almeria_,27
+544,La Alquería,129
+545,La Asunción,42
+546,La Aurora,21
+547,La Bonanza,233
+548,La Cabaña,19
+549,La Cabaña (S.C. La Faena),2
+550,La Cabrera,75
+551,La Calleja,11
+552,La Calleja Santacoloma,15
+553,La Camelia,69
+554,La Campiña,12
+555,La Capilla,0
+556,La Capuchina,172
+557,La Castaña,0
+558,La Castellana,121
+559,La Castellana - José Maria Carbonel,0
+560,La Castellana - Villa Calazans,1
+561,La Castellana Occidental,38
+562,La Catedral,39
+563,La Cañada,0
+564,La Chucua - La Trinitaria,41
+565,La Cita,1
+566,La Clarita,124
+567,La Colina Campestre II Sector,89
+568,La Colmena,2
+569,La Concordia,12
+570,La Coruña,29
+571,La Emilia,0
+572,La Esmeralda,76
+573,La Esperanza,212
+574,La Esperanza Norte,2
+575,La Esperanza_,98
+576,La Estación,4
+577,La Estanzuela_,363
+578,La Estrada,319
+579,La Estrellita,2
+580,La Faena,7
+581,La Favorita,263
+582,La Flor Ciudad Hunza,0
+583,La Floresta (Hacienda),0
+584,La Floresta Norte,6
+585,La Florida,0
+586,La Florida Alto de Pijaos,0
+587,La Florida Occidental,0
+588,La Fragua - Urb. Ciudad de Quito,18
+589,La Fraguita,18
+590,La Francia,1
+591,La Franja de Buenavista,2
+592,La Frontera,3
+593,La Giralda,0
+594,La Giraldilla,3
+595,La Gloria,23
+596,La Gloria Baja,0
+597,La Granja,96
+598,La Granja II,3
+599,La Granja Norte,1
+600,La Granja Oriental,0
+601,La Grovana,0
+602,La Guaca,33
+603,La Guaca IV Sector,12
+604,La Igualdad,171
+605,La Igualdad II Sector,2
+606,La Igualdad La Rivera Real,10
+607,La Isabela I Etapa,15
+608,La Liberia,1
+609,La Libertad,19
+610,La Libertad San Fernando,0
+611,La Macarena,3
+612,La Magdalena,43
+613,La Manuelita,2
+614,La Merced,17
+615,La Merced Norte,45
+616,La Moneda Britalia,2
+617,La Nueva Gloria,9
+618,La Palma El Recreo,0
+619,La Paz,673
+620,La Paz Central,0
+621,La Pepita,198
+622,La Pepita Norte,0
+623,La Perla,85
+624,La Perla Occidental,0
+625,La Perla Oriental,29
+626,La Perseverancia,9
+627,La Playa 2,0
+628,La Ponderosa,50
+629,La Portada_,0
+630,La Pradera,226
+631,La Reliquia,35
+632,La Riviera,95
+633,La Riviera_,16
+634,La Sabana,134
+635,La Sagrada Familia,0
+636,La Serena,49
+637,La Sierra,0
+638,La Soledad,227
+639,La Soledad Norte,61
+640,La Sultana,8
+641,La Tortigua,7
+642,"La Tortigua (Mz A,B,C,)",15
+643,"La Tortigua (Mz I,J)",0
+644,La Trinidad,105
+645,La Uribe,6
+646,La Victoria Norte,56
+647,La Victoria Oriental,0
+648,La_Alameda,4
+649,La_Aurora,39
+650,La_Carolina,11
+651,La_Concordia,3
+652,La_Esmeralda,0
+653,La_Esperanza,14
+654,La_Fragua,18
+655,La_Maria,58
+656,La_Primavera,32
+657,Lago de Suba,285
+658,Lagos de Córdoba,0
+659,Laguneta,2
+660,Las Aguas,9
+661,Las Aguas_,2
+662,Las Amercias Occidental I,0
+663,Las Amercias Sector Galán,37
+664,Las Americas,66
+665,Las Americas La Triguera,11
+666,Las Americas_,127
+667,Las Areneras,21
+668,Las Brisas_,25
+669,Las Carabelas,74
+670,Las Carolinas,0
+671,Las Cruces,14
+672,Las Delicias del_Sur,7
+673,Las Delicias_,8
+674,Las Ferias,65
+675,Las Ferias Occidental,162
+676,Las Galias,1
+677,Las Guacamayas,10
+678,Las Lomas,0
+679,Las Margaritas I Sector,24
+680,Las Margaritas II Sector,60
+681,Las Mercedes_,0
+682,Las Nieves,204
+683,Las Orquídeas,336
+684,Las Palmas Norte,3
+685,Las Salinas,9
+686,Las Torres,6
+687,Las Villas Sector II,13
+688,Las Villas Sector III,39
+689,Las Villas de Mariana,0
+690,Las Violetas La Asunción,0
+691,Las_Acacias,6
+692,Las_Flores,0
+693,Las_Margaritas,42
+694,Las_Palmeras,17
+695,Laureles II,2
+696,Laureles La Estación,0
+697,Linterama,16
+698,Lisboa_,19
+699,Llano Grande,5
+700,Lombardia II,0
+701,Los Alcázares,22
+702,Los Alcázares - Urb. Supercenter,1
+703,Los Alcázares Norte,58
+704,Los Almendros del norte,12
+705,Los Alpes II Sector,19
+706,Los Altos del Zuque,3
+707,Los Andes,7
+708,Los Andes - Urb. Calle Cien,1
+709,Los Andes - Urb. Malta,23
+710,Los Andes - Urb. Teusaca,0
+711,Los Andes - Vizcaya III Sector,0
+712,Los Arrayanes,0
+713,Los Arreboles,0
+714,Los Azafranes,5
+715,Los Caobos,29
+716,Los Cedritos,89
+717,Los Cedros,38
+718,Los Cedros Oriental,42
+719,Los Cerecitos y Los Cerezos,5
+720,Los Cerezos,3
+721,Los Cerezos Sector La Esperanza,10
+722,Los Chircales,0
+723,Los Cipreses,0
+724,Los Consuelos,2
+725,Los Ejidos,122
+726,Los Laches,0
+727,Los Laureles Sabanas del Dorado,52
+728,Los Libertadores,11
+729,Los Libertadores Sector El Tesoro,0
+730,Los Libertadores Sector San Ignacio,4
+731,Los Libertadores Sector San Isidro,2
+732,Los Libertadores Sector San José,1
+733,Los Monjes,1
+734,Los Naranjos,0
+735,Los Otoños,0
+736,Los Pijaos,0
+737,Los Pinos Florencia,66
+738,Los Pinos de Marsella,0
+739,Los Portales del Norte II,1
+740,Los Portales del Norte III,14
+741,Los Puentes,0
+742,Los Rosales,2
+743,Los Sauces Norte,10
+744,Los Álamos,3
+745,Los Álamos - El Carmelo,15
+746,Los Álamos - Parque Industrial El Dorado,0
+747,Los Álamos - San Ignacio,0
+748,Los Álamos - Urb. Avianca,0
+749,Los Álamos - Urb. Industrial Parayas,18
+750,Los Álamos II Sector,18
+751,Los Álamos Sector Industrial,35
+752,Los Ángeles,6
+753,Los Ángeles - Portal de Santa Inés (Proyecto Urb.),1
+754,Los Ángeles - Urb. El Galeón,1
+755,Los Ángeles 2,9
+756,Los_Andes,70
+757,Los_Cerezos,31
+758,Los_Naranjos,2
+759,Los_Ángeles,30
+760,Lourdes,2
+761,Lourdes II,4
+762,Lucero Bajo,6
+763,Lucero Bajo Sector Conquista,3
+764,Lucero Medio,0
+765,Lucero Sur Bajo,5
+766,Luna Park,0
+767,Lusitania,94
+768,Luís Carlos Galán,65
+769,Magdala I Etapa,4
+770,Malibu,3
+771,Mallorca,1
+772,Managua,10
+773,Mandalay,11
+774,Marandu,27
+775,Marandu - San Jacinto,0
+776,Marandu - Urb. Fiorita,4
+777,Maranta I y II y III Sector,23
+778,Maria Paz,128
+779,Marichuela,0
+780,Marruecos II Sector,1
+781,Marsella,16
+782,Marsella Aloha Sector Norte,0
+783,Marsella Aloha Sector Sur,23
+784,Marsella Sector Norte Segunda Etapa,0
+785,Mazuren,5
+786,Meissen,1
+787,Metrópolis,6
+788,Metrópolis_,8
+789,Milenta,134
+790,Milenta II Sector,0
+791,Milenta_,0
+792,Millán los Sauces,1
+793,Milán Barrancas,9
+794,Minuto de Dios - La Tropical Copetroco,2
+795,Mirador de la Campiña II Sector,5
+796,Miraflores Kennedy,1
+797,Mirandela,0
+798,Mirandela (La Cartaja),0
+799,Modelia,162
+800,Modelia Occidental,112
+801,Molino del Viento,68
+802,Molinos Norte,2
+803,Montearroyo,0
+804,Monterrey_,22
+805,Montevideo_,48
+806,Morabia II,0
+807,Moralva,2
+808,Muequeta,117
+809,Multifamiliares La Paz,0
+810,Muzu_,11
+811,México,6
+812,México III Sector,0
+813,Nariño Sur,13
+814,Nazaret (Predio),11
+815,Nicolás Escobar,1
+816,Nicolás de Federman,11
+817,Niza Norte,66
+818,Niza Norte - Ocales de Niza,0
+819,Niza Norte - Sotileza,0
+820,Niza Norte - Urb. Calatrava,1
+821,Niza Norte - Urb. Tumanaco,0
+822,Niza Suba - San Silvestre,0
+823,Niza Suba - San Tadeo San Lorenzo,0
+824,Niza Suba - Urb. La Arboleda de Suba,0
+825,Niza Sur,130
+826,Normandia,200
+827,Normandia - Conjunto Multifamiliar Colseguros,1
+828,Normandia - Urb. Nueva Normandia,0
+829,Normandia IV Sector,5
+830,Normandia Multifamiliar Covimac,1
+831,Normandia Occidental,12
+832,Nueva Marsella I Sector,19
+833,Nueva Marsella II Sector,14
+834,Nueva Marsella III Sector,2
+835,Nueva Tibabuyes - La Esmeralda,0
+836,Nueva Villemar,0
+837,Nueva York,4
+838,Nueva York II,22
+839,Nueva Zelanda,4
+840,Nuevo Corinto,8
+841,Nuevo Country,1
+842,Nuevo Horizonte,1
+843,Nuevo Kennedy,9
+844,Nuevo Milenio (En Tramite),1
+845,Nuevo Monterrey,11
+846,Nuevo Muzu II Sector 1 A Etapa,3
+847,Oikos Teucali San Antonio,7
+848,Onasis II,4
+849,Ortezal,65
+850,Ortezal - Quinta Paredes,37
+851,Ortezal Cádiz,37
+852,Ortezal_,166
+853,Ospina Pérez,6
+854,Ospina Pérez Sur,9
+855,Pablo VI - Urb. Montana Quirinal III Etapa,0
+856,Pablo VI Etapa I,2
+857,Pablo VI Etapa II,0
+858,Pablo VI Norte,0
+859,Palermo,247
+860,Palma Aldea,66
+861,Palo Blanco,29
+862,Paloquemao,205
+863,Panorama (Antes Altamira),0
+864,Pantanito,13
+865,Paraíso de Bavaria,0
+866,Pardo Rubio - Arbos I,0
+867,Pardo Rubio - Urb. Panorama,0
+868,Paris Francia,8
+869,Parque El Tunal,6
+870,Parque Nacional,0
+871,Parque Nacional Oriental,0
+872,Parque Popular El Salitre,4
+873,Parque Simón Bolívar,0
+874,Parques de Lorena,12
+875,Parques del Campo,0
+876,Pasadena - Conjunto El Rincón de la 100,5
+877,Pastrana,2
+878,Pastranita I Sector,27
+879,Pastranita II Sector,0
+880,Patio Bonito I Sector,25
+881,Patio Bonito II Sector,270
+882,Patio Bonito III Sector,195
+883,Pensilvania,54
+884,Piedra Herrada,0
+885,Pinar de la Calleja,0
+886,Pinar del Río,12
+887,Pinar del Río II Sector,23
+888,Pirámide,15
+889,Pió XII,76
+890,Pió XII (Agrupación de Vivienda),0
+891,Playón La Playita,12
+892,Plazuelas del Virrey,98
+893,Plenitud La Calleja,2
+894,Policarpa Salavarrieta,77
+895,Polo Club,73
+896,Polo Club - Brasilia,5
+897,Polo Club - Colombiana de Capitalización I Sector,0
+898,Polo Club - Colombiana de Capitalización II Sector,6
+899,Popular Modelo,4
+900,Portal de Granada,1
+901,Portal de Patio Bonito,0
+902,Portales del Norte - La Candelaria,2
+903,Portales del Norte Urb. San Pedro,0
+904,Porvenir,40
+905,Potosí,6
+906,Prado Centro,0
+907,Prado Pinzon,135
+908,Prado Pinzon - Santa Carolina,5
+909,Prado Pinzon Urb. Tehorlu,3
+910,Prado Sur,84
+911,Prado Veraniego,536
+912,Prado Veraniego Norte - La Hacienda,2
+913,Prado Veraniego Norte - Urb. Vivaral,3
+914,Prado Veraniego Sur,1
+915,Prado Veraniego Sur - Córdoba Niza IX,4
+916,Prados de Salitre II,1
+917,Prados de Suba,0
+918,Prados del_Salitre,1
+919,Predio Cundinamarca,2
+920,Primavera Norte - San Francisco,286
+921,Primavera Occidental,171
+922,Primero de Mayo,0
+923,Protecho Bogota II,62
+924,Puente Aranda,282
+925,Puente Colorado,5
+926,Puente Largo III Sector,21
+927,Puente Largo Sector I y II,47
+928,Puerta de Teja,0
+929,Puerta de_Teja,1
+930,Puerto Amor Playas del Jaboque,6
+931,Quesada,372
+932,Quinta Mutis,285
+933,Quinta Paredes,39
+934,Quinta Ramos,0
+935,Quintas de Timiza,0
+936,Quirigua (Agrupación 1),28
+937,Quirigua Central,194
+938,Quirigua Plan Sidauto,32
+939,Quirigua Sector F,46
+940,Quiroga IX Etapa,5
+941,Rafael Núñez,0
+942,Rafael Uribe,115
+943,Recodo del Country,2
+944,Refugio del Norte,0
+945,Remanso,4
+946,Remanso Sur,113
+947,Republica del Canadá El Pinar,0
+948,Reservas de la Sierra - La Arboleda,6
+949,Restrepo,296
+950,Restrepo - Urb. Alfonso López Pumarejo,3
+951,Restrepo Occidental,502
+952,Ricaurte,148
+953,Rincón El Cóndor,0
+954,Rincón Escuela,10
+955,Rincón de Castilla,0
+956,Rincón de Modelia,0
+957,Rincón de San Andrés,8
+958,Rincón de Santa Inés Compartir Suba,0
+959,Rincón de Santa Paula,0
+960,Rincón de Suba,65
+961,Rincón de Suba Sector Lagos de la Frontera,10
+962,Rincón de las Villas,4
+963,Rincón del Cedro,24
+964,Rincón del Chico,35
+965,Rincón del Karmel,0
+966,Rincón del Puente - Quinta Catania,1
+967,Rincón del Salitre - Urb. Modelo II,0
+968,Rionegro,291
+969,Riviera Norte,0
+970,Rocío Centro Oriental,1
+971,Rocío Oriental,0
+972,Rocío Parte Baja,1
+973,Roma - Bertha Hernández De Ospina I y III,1
+974,Río de Janeiro El Pesebre,8
+975,S C Casablanca Suba,3
+976,S C. Casablanca Suba,2
+977,S C. Julio Florez,7
+978,S C. Parque Nacional Oriental,0
+979,S C. Tuna Alta,11
+980,S.C Altos de Chozica,43
+981,S.C Atenas,0
+982,S.C Britalia,0
+983,S.C Ferrocaja,3
+984,S.C Gualoche,1
+985,S.C Julio Florez,0
+986,S.C Parque Distrital El Salitre,0
+987,S.C Prado Veraniego Norte,57
+988,S.C Salitre Suba,21
+989,S.C Suba Urbano,8
+990,S.C Tuna Alta,0
+991,S.C Tuna Baja,0
+992,S.C. 20 De Julio,8
+993,S.C. Aeropuerto El Dorado,102
+994,S.C. Altamira,8
+995,S.C. Altos de Chozica,1
+996,S.C. Andes Norte,46
+997,S.C. Antiguo Country,120
+998,S.C. Atenas,18
+999,S.C. Autopista Medellín,46
+1000,S.C. Barrancas,8
+1001,S.C. Barrancas Oriental,2
+1002,S.C. Batan,7
+1003,S.C. Bellavista,4
+1004,S.C. Bellavista Occidental,90
+1005,S.C. Bosa,0
+1006,S.C. Bosque Calderón,16
+1007,S.C. Bosque Popular,73
+1008,S.C. Bosque de Pinos,15
+1009,S.C. Boyacá,113
+1010,S.C. Bravo Paez,0
+1011,S.C. Calvo Sur,17
+1012,S.C. Cataluña,2
+1013,S.C. Centenario,55
+1014,S.C. Central de Mezclas,1
+1015,S.C. Chapinero Central,587
+1016,S.C. Chapinero Norte,224
+1017,S.C. Chico Norte,76
+1018,S.C. Chico Norte III Sector,47
+1019,S.C. Ciudad Jardín Norte,0
+1020,S.C. Claret,23
+1021,S.C. Club de los Lagartos,0
+1022,S.C. Egipto,0
+1023,S.C. El Charco (Rural),0
+1024,S.C. El Chico,36
+1025,S.C. El Dorado Industrial,2
+1026,S.C. El Gaco,1
+1027,S.C. El Laurel,40
+1028,S.C. El Nogal,13
+1029,S.C. El Paraíso,0
+1030,S.C. El Poa,0
+1031,S.C. El Redil,2
+1032,S.C. El Retiro,72
+1033,S.C. El Tintal Central,1
+1034,S.C. El Tintal II,5
+1035,S.C. El Triángulo,0
+1036,S.C. El Verbenal,1
+1037,S.C. Emaus,7
+1038,S.C. Engativa El Dorado,5
+1039,S.C. Engativa Zona Urbana,139
+1040,S.C. Espartillal,88
+1041,S.C. Estoril,20
+1042,S.C. Gilmar - La Sirena (Predio),2
+1043,S.C. Granada,6
+1044,S.C. Granada Norte,17
+1045,S.C. Granjas de San Pablo,2
+1046,S.C. Horizontes Norte,4
+1047,S.C. Ingemar Oriental,2
+1048,S.C. Ingles,19
+1049,S.C. Interindustrial,0
+1050,S.C. Jardín Botánico,16
+1051,S.C. José Joaquín Vargas,4
+1052,S.C. Julio Florez,4
+1053,S.C. La Alameda,0
+1054,S.C. La Carolina,9
+1055,S.C. La Estradita,37
+1056,S.C. La Faena,9
+1057,S.C. La Gloria Oriental,0
+1058,S.C. La Hortua,16
+1059,S.C. La Patria - Barrio San Martín,37
+1060,S.C. La Riviera,0
+1061,S.C. La Salle,7
+1062,S.C. La Victoria,10
+1063,S.C. Lago Gaitan,146
+1064,S.C. Las Acacias,2
+1065,S.C. Las Mercedes Suba,0
+1066,S.C. Las Villas,139
+1067,S.C. Libertador,0
+1068,S.C. Los Álamos,1
+1069,S.C. Los Álamos_,22
+1070,S.C. Los Ángeles,20
+1071,S.C. Los_Naranjos,3
+1072,S.C. Marco Fidel Suárez,2
+1073,S.C. Marco Fidel Suárez I,28
+1074,S.C. Maria Cristina,5
+1075,S.C. Marly,238
+1076,S.C. Mirandela,0
+1077,S.C. Modelia Occidental,4
+1078,S.C. Modelo Sur,5
+1079,S.C. Molinos del Sur,27
+1080,S.C. Murillo Toro,0
+1081,S.C. Mónaco,0
+1082,S.C. Niza Norte,3
+1083,S.C. Niza Suba,0
+1084,S.C. Normandia Occidental,3
+1085,S.C. Olaya,158
+1086,S.C. Ortezal,25
+1087,S.C. Osorio Diez,0
+1088,S.C. Osorio II - La Magdalena Ciudad Tintal,3
+1089,S.C. Osorio II - San Ignacio Vereda El Tintal,10
+1090,S.C. Pardo Rubio,18
+1091,S.C. Paris Gaitan,44
+1092,S.C. Parque Nacional_Oriental,0
+1093,S.C. Pasadena,73
+1094,S.C. Polo Club,2
+1095,S.C. Porciúncula,154
+1096,S.C. Portales del Norte,46
+1097,S.C. Potosí,0
+1098,S.C. Prado Veraniego Norte,114
+1099,S.C. Prado Veraniego Sur,0
+1100,S.C. Primavera,3
+1101,S.C. Puente Grande,4
+1102,S.C. Páramo_,0
+1103,S.C. Quinta Camacho,177
+1104,S.C. Quinta Ramos,2
+1105,S.C. Quiroga,20
+1106,S.C. Quiroga Central,0
+1107,S.C. Ronda,2
+1108,S.C. Salitre Suba,0
+1109,S.C. San Cristóbal Sur,0
+1110,S.C. San Ignacio,14
+1111,S.C. San Jorge Sur,48
+1112,S.C. San José Sur,53
+1113,S.C. San José Sur Oriental,0
+1114,S.C. San José de Fontibón,0
+1115,S.C. San Luís,6
+1116,S.C. San Norte,0
+1117,S.C. Santa Helenita,332
+1118,S.C. Santa Lucia,38
+1119,S.C. Santa Rosa,1
+1120,S.C. Santa Teresa de Suba,0
+1121,S.C. Santiago Pérez,10
+1122,S.C. Seminario,0
+1123,S.C. Sosiego Sur,0
+1124,S.C. Suba Urbano,96
+1125,S.C. Sucre,125
+1126,S.C. Tabora,310
+1127,S.C. Tibabita,0
+1128,S.C. Tintala,8
+1129,S.C. Tintala - Ciudadela Nueva Castilla,25
+1130,S.C. Tuna Baja,1
+1131,S.C. Velódromo,0
+1132,S.C. Vereda Suba Cerros,0
+1133,S.C. Villa Alsacia,1
+1134,S.C. Villa Elisa,25
+1135,S.C. Villa Gladys,19
+1136,S.C. Villa Hermosa,0
+1137,S.C. Villa Nelly III Sector,54
+1138,Sabana del Dorado - San Luís (En Tramite),3
+1139,Sabanalarga,4
+1140,Sabanas del Dorado I,2
+1141,Sagrado Corazón,61
+1142,Sagrado Corazón_,10
+1143,Salamanca y Catalayud,0
+1144,Salazar Gómez,211
+1145,Salitre,0
+1146,Salvador Allende,25
+1147,Samore,22
+1148,Samper,101
+1149,Samper Mendoza,74
+1150,San,1
+1151,San Andrés,33
+1152,San Antonio (Hacienda),0
+1153,San Antonio - Urb. Av. Luna Park,17
+1154,San Antonio Noroccidental,5
+1155,San Antonio Norte,19
+1156,San Antonio Norte - Codabas,0
+1157,San Antonio Norte II Sector,90
+1158,San Antonio_,6
+1159,San Antonio_Norte,62
+1160,San Basilio,50
+1161,San Benito,36
+1162,San Bernardo,0
+1163,San Blass,5
+1164,San Carlos,85
+1165,San Carlos Norte,2
+1166,San Cayetano,3
+1167,San Cayetano Norte,0
+1168,San Cayetano__,42
+1169,San Cristóbal Norte,57
+1170,San Cristóbal Norte 2,11
+1171,San Cristóbal Sur Viejo,6
+1172,San Diego,78
+1173,San Eusebio,165
+1174,San Fernando,5
+1175,San Fernando Occidental,105
+1176,San Fernando Occidental - Urb. Av. Chile,2
+1177,San Francisco I Sector,17
+1178,San Francisco II Sector,11
+1179,San Francisco Norte,3
+1180,San Gabriel,94
+1181,San Ignacio,4
+1182,San Isidro Norte,28
+1183,San Isidro_II,9
+1184,San Jacinto,2
+1185,San Joaquín,49
+1186,San Joaquín Norte,33
+1187,San Jorge Central,54
+1188,San Jorge Central II Sector,1
+1189,San Jorge Gloria Gaitan,0
+1190,San Jorge_Central,21
+1191,San José De Bavaria,2
+1192,San José Obrero,2
+1193,San José Occidental,0
+1194,San José Oriental,3
+1195,San José V Sector,8
+1196,San José de Usaquén,1
+1197,San José de Usaquén - Urb. Argo,0
+1198,San José de Usaquén - Urb. Los Bosques,6
+1199,San José del Prado,234
+1200,San José del Prado - Agrupación de Vivienda Calua,0
+1201,San José del Prado - Fuerteventura,50
+1202,San José del Prado - Urb. Echeverría,27
+1203,San José del Prado - Urb. La Manuelita,3
+1204,San Juan Bosco,15
+1205,San Juan Suba,4
+1206,San Juan de Castilla,4
+1207,San Luís,244
+1208,San Marcos,0
+1209,San Marino,5
+1210,San Martín de Loba,4
+1211,San Miguel_,6
+1212,San Nicolás,94
+1213,San Norte,2
+1214,San Pablo Jericó,7
+1215,San Patricio,164
+1216,San Rafael,59
+1217,San Rafael Industrial,23
+1218,San Rafael Norte,2
+1219,San Simón (Hacienda),0
+1220,San Vicente Ferrer,40
+1221,San Victorino,94
+1222,San_Antonio,60
+1223,San_Bernardo,164
+1224,San_Carlos,0
+1225,San_Dionisio,44
+1226,San_Felipe,246
+1227,San_Fernando,79
+1228,San_Isidro,12
+1229,San_Jorge,6
+1230,San_Juanito,0
+1231,San_Luís,0
+1232,San_Martín,20
+1233,Santa Ana,0
+1234,Santa Ana Occidental,33
+1235,Santa Ana Oriental,7
+1236,Santa Ana Sur,7
+1237,Santa Anita,0
+1238,Santa Bibiana,109
+1239,Santa Bárbara,6
+1240,Santa Bárbara Alta,3
+1241,Santa Bárbara Central I Sector,108
+1242,Santa Bárbara Central I y II,72
+1243,Santa Bárbara Central II,3
+1244,Santa Bárbara Central II Sector,3
+1245,Santa Bárbara Central III Sector,5
+1246,Santa Bárbara Central IV Sector,6
+1247,Santa Bárbara City Hall,0
+1248,Santa Bárbara Norte,31
+1249,Santa Bárbara Occidental,272
+1250,Santa Bárbara Oriental,78
+1251,Santa Bárbara_,4
+1252,Santa Catalina Sector I,3
+1253,Santa Catalina Sector II,6
+1254,Santa Cecilia,42
+1255,Santa Cecilia_,1
+1256,Santa Clara,0
+1257,Santa Fe,383
+1258,Santa Helena - Puerta de Hierro Las Acacias,1
+1259,Santa Helena Bosque de Casigua,0
+1260,Santa Helena_,4
+1261,Santa Inés,103
+1262,Santa Inés Sur,5
+1263,Santa Isabel,61
+1264,Santa Isabel Occidental,9
+1265,Santa Isabel Sur,26
+1266,Santa Isabel V Sector,1
+1267,Santa Isabel del Restrepo,0
+1268,Santa Lucia Sur,8
+1269,Santa Margarita,14
+1270,Santa Maria - Recinto de San Francisco,2
+1271,Santa Maria I y II Sector,125
+1272,Santa Maria del Lago,4
+1273,Santa Matilde,11
+1274,Santa Matilde II Sector,52
+1275,Santa Mónica,6
+1276,Santa Mónica - Urb. El Pedregal,3
+1277,Santa Mónica_,3
+1278,Santa Paz - Santa Elvira,0
+1279,Santa Rita III Sector,18
+1280,Santa Rita Sur Oriental,9
+1281,Santa Rita Sur Oriental II Etapa,6
+1282,Santa Rosa,73
+1283,Santa Rosa - Urb. Tropicream,2
+1284,Santa Rosa De Lima,1
+1285,Santa Rosa del Carvajal,60
+1286,Santa Rosita,185
+1287,Santa Teresa,29
+1288,Santa Teresita,82
+1289,Santa_Catalina,0
+1290,Santa_Cecilia,285
+1291,Santa_Maria,0
+1292,Santa_Mónica,0
+1293,Santa_Mónica_,8
+1294,Santa_Sofía,72
+1295,Santander Norte,308
+1296,Santander_,13
+1297,Santandersito,39
+1298,Santiago III,1
+1299,Santo Domingo,0
+1300,Sauces de Suba,13
+1301,Sauzalito,10
+1302,Senderos de Castilla,8
+1303,Senderos de la Esperanza,0
+1304,Serranías de Suba,6
+1305,Sevilla,48
+1306,Sierras del Chico,1
+1307,Sierras del Moral,6
+1308,Siete de Agosto,591
+1309,Simón Bolívar,93
+1310,Suba Linda,12
+1311,Suramérica,48
+1312,Taberin,0
+1313,Talavera,2
+1314,Tardes de San José,0
+1315,Techo,0
+1316,Tejar,93
+1317,Tejares del Norte,2
+1318,Telecom Arrayanes,39
+1319,Tenerife II Sector,2
+1320,Terminal de Transportes,6
+1321,Teusaca,13
+1322,Teusaquillo,220
+1323,Teusaquillo de Suba,2
+1324,Tibabita,23
+1325,Tibabita I,0
+1326,Tibabita I Sector,11
+1327,Tibabita II,23
+1328,Tibabuyes I Sector,147
+1329,Tibana,7
+1330,Tibana II Sector - Parques de Primavera,2
+1331,Tierra Firme,0
+1332,Timiza,7
+1333,Timiza - Agrupación De Vivienda Tonoli,2
+1334,Tintala,4
+1335,Tintalito II,0
+1336,Tisquesusa,2
+1337,Toberín,221
+1338,Toberín Oriental,3
+1339,Tocarema,0
+1340,Toledo,11
+1341,Torca,0
+1342,Torquigua,0
+1343,Torredon,0
+1344,Torreladera,3
+1345,Torremolinos,4
+1346,Torres de Centenario,0
+1347,Torres de Modelia,27
+1348,Torres del Country,0
+1349,Torres del Diamante,0
+1350,Tuna Alta,5
+1351,Tuna Alta Almeira,0
+1352,Tuna Baja III y III A,0
+1353,Tunal Sector I,0
+1354,Tunal Sector_I,0
+1355,Tunal Sector_II,2
+1356,Tundama II Etapa,0
+1357,Tunjuelito,39
+1358,Unifamiliares Avenida Décima,8
+1359,Urb. Acapulco,0
+1360,Urb. Alhambra Sur Oriental,1
+1361,Urb. Altamar,13
+1362,Urb. Altos de Zarzamora,0
+1363,Urb. Ambalo,5
+1364,Urb. Antonio Granados,38
+1365,Urb. Aragón,25
+1366,Urb. Arcos de Cantalejo,0
+1367,Urb. Atlanta,10
+1368,Urb. Avenida Centenario,0
+1369,Urb. Balcones de Provenza,2
+1370,Urb. Balcón de Suba,3
+1371,Urb. Boca Colina,5
+1372,Urb. Bochalema,2
+1373,Urb. Bosques del Sur,0
+1374,Urb. Camino Verde,0
+1375,Urb. Caminos de Atlanta,5
+1376,Urb. Carimagua I,20
+1377,Urb. Carimagua II,0
+1378,Urb. Carrera 32 186-07,0
+1379,Urb. Catalina,5
+1380,Urb. Central - Jorge Gaitan Cortes,7
+1381,Urb. Cerros 170,0
+1382,Urb. Choasuca,0
+1383,Urb. Clarelandia del Sur,7
+1384,Urb. Cofradía,0
+1385,Urb. Cofradía II Sector,0
+1386,Urb. Colina Norte II Etapa,6
+1387,Urb. Colmena I Los Pinares,15
+1388,Urb. Corkidi,20
+1389,Urb. El Alcázar de Suba,5
+1390,Urb. El Bosque de Suba,10
+1391,Urb. El Campito,3
+1392,Urb. El Carmelo,1
+1393,Urb. El Cebadero,4
+1394,Urb. El Lago del Paraíso,0
+1395,Urb. El Palmar,3
+1396,Urb. El Paseito II Sector,0
+1397,Urb. El Portal de la Fontana,0
+1398,Urb. El Pórtico y Los Remansos,29
+1399,Urb. El Rodeo,2
+1400,Urb. El Totumo,0
+1401,Urb. El Triunfo,0
+1402,Urb. Entre Ríos,0
+1403,Urb. Entre Ríos Zona Industrial,0
+1404,Urb. Eucaliptos de la Colina,0
+1405,Urb. Florencia,9
+1406,Urb. Floresta III (Sauces II),4
+1407,Urb. Floresta Norte II Sector,0
+1408,Urb. Fucha,15
+1409,Urb. Gavilanes,0
+1410,Urb. Gecolsa,0
+1411,Urb. Golconda,9
+1412,Urb. Guiparma,2
+1413,Urb. Iberia Triángulo,33
+1414,Urb. Industrial San Pedro,20
+1415,Urb. Industrial Sredni,23
+1416,Urb. Jardines del Norte,11
+1417,Urb. Kennedy Supermanzana 2,0
+1418,Urb. La Chocita,10
+1419,Urb. La Floresta IV Sector,0
+1420,Urb. La Floresta Reservada,1
+1421,Urb. La Floresta V Sector,10
+1422,Urb. La Herradura,0
+1423,Urb. La Manuelita,19
+1424,Urb. La Pradera,4
+1425,Urb. La Sirena,0
+1426,Urb. La Sultana del Sur,1
+1427,Urb. Lagos de Córdoba,4
+1428,Urb. Las Orquídeas,2
+1429,Urb. Laureles Kennedy,0
+1430,Urb. Los Eliseos,7
+1431,Urb. Los Sauces,19
+1432,Urb. Maitrella,0
+1433,Urb. Mendiguaca,0
+1434,Urb. Montebello,25
+1435,Urb. Montevideo 1a. Etapa,1
+1436,Urb. Montevideo Mz 13B,8
+1437,Urb. Moore La Colina,0
+1438,Urb. Nueva Roma Oriental Dardanelos,1
+1439,Urb. Oviedo,0
+1440,Urb. Parque Afir,6
+1441,Urb. Parque Empresarial Santa Helena,0
+1442,Urb. Parque Industrial Villa Concha,5
+1443,Urb. Parques de la Colina,0
+1444,Urb. Picadelly,2
+1445,Urb. Piedemonte,0
+1446,Urb. Plaza Baviera,3
+1447,Urb. Pontevedra Sector I,50
+1448,Urb. Portales del Norte I,0
+1449,Urb. Prado Grande,2
+1450,Urb. Prados de Altamira,0
+1451,Urb. Primero de Mayo,5
+1452,Urb. Puerto Sol,0
+1453,Urb. Quintas de la Sabana,2
+1454,Urb. Riberas de Occidente I Etapa,6
+1455,Urb. San Antonio,10
+1456,Urb. San Antonio Norte,5
+1457,Urb. San Diego,1
+1458,Urb. San Pedro,2
+1459,Urb. San Rafael Norte I,1
+1460,Urb. San Rafael Norte II,0
+1461,Urb. San_Luís,1
+1462,Urb. Santa Rosa - Rincón de Venecia,0
+1463,Urb. Santacoloma,0
+1464,Urb. Santiago,0
+1465,Urb. Serafina,18
+1466,Urb. Simón Bolívar,0
+1467,Urb. Torres de Madeira,17
+1468,Urb. Torres de Suba,9
+1469,Urb. Tropicana,0
+1470,Urb. Valbella,0
+1471,Urb. Versalles,3
+1472,Urb. Villa del Cerro,0
+1473,Urbanizacion  El Porvenir Predio Tintalito Mazuera Uno,0
+1474,Urbanización El Preciso,0
+1475,Urbanización Villas de Castilla,2
+1476,Usaquén,44
+1477,Usaquén - Urb. Portal de Siena,0
+1478,Usatama,7
+1479,Valladolid,161
+1480,Valladolid - A.S.D.,3
+1481,Valparaíso II Etapa,0
+1482,Velódromo,3
+1483,Venecia,189
+1484,Venecia Occidental,15
+1485,Veracruz,1
+1486,Veracruz II Sector,3
+1487,Veracruz_,1
+1488,Veracruz__,168
+1489,Veraguas,69
+1490,Veraguas Central,75
+1491,Vereda Monserrate,9
+1492,Vereda Tibabuyes - Fontanar del Río,0
+1493,Versalles y Los Cerezos,8
+1494,Villa Adriana,10
+1495,Villa Alsacia,24
+1496,Villa Alsacia Ciudadela,0
+1497,Villa Amalia,53
+1498,Villa Angélica (Canadá La Guira),0
+1499,Villa Beatriz,3
+1500,Villa Candelaria,0
+1501,Villa Castilla - El Triángulo,0
+1502,Villa Catalina III Sector,35
+1503,Villa Claudia,4
+1504,Villa Claudia II,7
+1505,Villa Claudia III,0
+1506,Villa Claver I y II,74
+1507,Villa Constanza,22
+1508,Villa Cristina,12
+1509,Villa Cristina III Etapa,0
+1510,Villa Del Mar - Urb. Tierragrata,8
+1511,Villa Delia Britalia Norte,8
+1512,Villa El Dorado Norte,10
+1513,Villa Elisa,75
+1514,Villa Elisa - El Aguinaldo,3
+1515,Villa Elisa - Urb. Villa Estella,2
+1516,Villa Emilia,8
+1517,Villa Emilia - Amparo II Sector,9
+1518,Villa Esperanza,6
+1519,Villa Flor,0
+1520,Villa Galante,0
+1521,Villa Gladys,50
+1522,Villa Gladys IV Sector,26
+1523,Villa Gladys Sector La Manzana,0
+1524,Villa Gladys Sector San Luís,0
+1525,Villa Hermosa_,86
+1526,Villa Inés,6
+1527,Villa Liliana el Vergel,0
+1528,Villa Magdala,111
+1529,Villa Maria I Sector,2
+1530,Villa Mariana,4
+1531,Villa Mariana (Proyecto Urbanístico),0
+1532,Villa Mary,0
+1533,Villa Mayor,0
+1534,Villa Mayor Antigua,0
+1535,Villa Mejia - El Tintal,25
+1536,Villa Nelly III los Alisos,125
+1537,Villa Nueva,8
+1538,Villa Olga,0
+1539,Villa Oliva - Villa del Carmen,92
+1540,Villa Sagrario,10
+1541,Villa Sandra,9
+1542,Villa Sonia,0
+1543,Villa Susana,2
+1544,Villa Teresita,2
+1545,Villa de la Loma,37
+1546,Villa de la Torre,16
+1547,Villa de los Alpes,2
+1548,Villa del Carmen,4
+1549,Villa del Prado,71
+1550,Villa del Rosario,56
+1551,Villa del Río,1
+1552,Villa del Río II Sector,0
+1553,Villa_Alexandra,7
+1554,Villa_Nelly,48
+1555,Villaluz,52
+1556,Villanova II,8
+1557,Villas de Alcalá - Altamira (Hacienda),46
+1558,Villas de Alcalá - Los Cerezos,8
+1559,Villas de Andalucía,9
+1560,Villas de Aranjuez,1
+1561,Villas de Granada,224
+1562,Villas del Dorado San Antonio,0
+1563,Villas del Dorado San Antonio II Sector,2
+1564,Villas del Madrigal,57
+1565,Villas del Mediterráneo,5
+1566,Villas del Rincón,0
+1567,Villemar,1
+1568,Visión Semindustrial,6
+1569,Visión de Colombia,17
+1570,Vista Hermosa - Maria Cristina,0
+1571,Vista_Hermosa,0
+1572,Viña del_Mar,17
+1573,Voto Nacional,274
+1574,Yira Castro,0
+1575,Zarzamora,9
+1576,Zona Franca,4
+1577,Zulima,11
+1578,Álamos Norte,552
+1579,Álamos Norte Sector Nor-Oriental,9

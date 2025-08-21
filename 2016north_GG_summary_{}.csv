@@ -1,0 +1,827 @@
+﻿barrio,upz,graffiti_count,garbage_count,graffiti_exist,garbage_exist,file_count_GG,garbage_exist_percentage,graffiti_exist_percentage
+Acacias Usaquén,13,75,0,33,0,86,0,0.38372093
+Acapulco_,26,11,0,10,0,26,0,0.384615385
+Aguas Claras,30,85,0,41,0,84,0,0.488095238
+Alameda,74,94,0,41,0,66,0,0.621212121
+Alejandría,26,12,0,8,0,15,0,0.533333333
+Alicante I y II,10,43,0,20,0,46,0,0.434782609
+Almendros de Suba,28,26,0,5,0,7,0,0.714285714
+Almonacid,28,75,0,18,0,24,0,0.75
+Altos de la Esperanza I Sector,28,47,0,17,0,20,0,0.85
+Andalucía_,29,36,0,12,0,21,0,0.571428571
+Andes Norte - Las Palmas de la Flora,25,23,0,7,0,8,0,0.875
+Andes Norte - Urb. Av. Suba II Etapa,25,9,0,3,0,6,0,0.5
+Arboleda del Country,15,16,0,5,0,9,0,0.555555556
+Arenera Buenavista,9,1,0,1,0,1,0,1
+Atahualpa,75,4,0,2,0,6,0,0.333333333
+Aures I,28,76,0,21,0,25,0,0.84
+Aures II,28,14,0,5,0,6,0,0.833333333
+Babilonia,12,152,0,41,0,54,0,0.759259259
+Bachue I y II,29,199,0,77,0,143,0,0.538461538
+Bahía Solano,75,38,0,24,0,50,0,0.48
+Balcones de Oriente,12,25,0,15,0,39,0,0.384615385
+Balcones de Vista Hermosa,9,7,0,5,0,18,0,0.277777778
+Balmoral Norte,9,15,0,5,0,9,0,0.555555556
+Barrancas,11,1,0,1,0,3,0,0.333333333
+Barrancas Norte,11,233,0,89,0,131,0,0.679389313
+Barrancas Oriental - Servita,11,24,0,11,0,16,0,0.6875
+Barrancas Perlas del Norte,11,144,0,81,0,139,0,0.582733813
+Barrio Ciudad Hunza,28,9,0,3,0,4,0,0.75
+Batan Lote Niza XII,24,41,0,13,0,22,0,0.590909091
+Bella Suiza,14,275,0,149,0,346,0,0.430635838
+Bella Vista,28,3,0,1,0,4,0,0.25
+Bellavista,26,179,0,69,0,97,0,0.711340206
+Bellavista y Unicerros,14,4,0,4,0,16,0,0.25
+Belmira,13,52,0,36,0,124,0,0.290322581
+Bernal y Forero,19,71,0,21,0,39,0,0.538461538
+Bocacolina El Cedro,11,17,0,6,0,6,0,1
+Bochica Compartir,72,22,0,13,0,30,0,0.433333333
+Bochica I y II Sector,29,5,0,1,0,3,0,0.333333333
+Bochica II,72,320,0,76,0,109,0,0.697247706
+Bochica IV Etapa,72,0,0,0,0,6,0,0
+Bolivia Oriental,72,51,0,6,0,19,0,0.315789474
+Bolivia Oriental II Etapa,72,49,0,6,0,22,0,0.272727273
+Bolivia Oriental III Etapa,72,9,0,6,0,29,0,0.206896552
+Bolivia Sector Occidental,72,5,0,3,0,18,0,0.166666667
+Bosque de Pinos III,13,25,0,15,0,40,0,0.375
+Bosque de Soratama,11,0,0,0,0,1,0,0
+Bosque de los Urapanes,23,16,0,9,0,18,0,0.5
+Bosques de Granada,73,34,0,18,0,32,0,0.5625
+Bosques de Mariana,73,277,0,100,0,142,0,0.704225352
+Bosques de Normandia,31,1,0,1,0,3,0,0.333333333
+Bosques de San Jorge Suba,27,10,0,3,0,3,0,1
+Bosques del Portal,27,9,0,4,0,6,0,0.666666667
+Britalia - El Pijao de Oro,18,9,0,4,0,6,0,0.666666667
+Britalia - El Tibon Albacete,18,7,0,4,0,21,0,0.19047619
+Britalia - Las Margaritas,18,7,0,5,0,8,0,0.625
+Britalia Las Margaritas,18,29,0,15,0,36,0,0.416666667
+Britalia San Diego 2,18,15,0,7,0,12,0,0.583333333
+Buenavista,9,205,0,119,0,275,0,0.432727273
+Buenavista II_Sector,9,0,0,0,0,3,0,0
+Buenavista La Estrellita II,9,80,0,31,0,76,0,0.407894737
+Burgos Britalia,23,25,0,9,0,16,0,0.5625
+Cabañas del Norte,11,14,0,5,0,9,0,0.555555556
+Calamari,12,1,0,1,0,19,0,0.052631579
+California,11,21,0,12,0,18,0,0.666666667
+Calima Norte,18,3,0,3,0,7,0,0.428571429
+Campanella,27,25,0,8,0,9,0,0.888888889
+Campo Hermoso,17,3,0,1,0,2,0,0.5
+Campos de Silencio,18,54,0,36,0,118,0,0.305084746
+Canaima,1,90,0,22,0,25,0,0.88
+Cantagallo - Carmel Club Campestre,18,75,0,46,0,162,0,0.283950617
+Cantalejo,18,67,0,28,0,65,0,0.430769231
+Canódromo,19,15,0,12,0,37,0,0.324324324
+Canódromo - Urb. Atabanza,19,35,0,17,0,46,0,0.369565217
+Canódromo - Urb. Tierra Linda,19,22,0,14,0,58,0,0.24137931
+Caobos Salazar,13,409,0,138,0,216,0,0.638888889
+Caobos Salazar Urb. Capri I y II Sector,13,51,0,21,0,56,0,0.375
+Casa Blanca I,23,61,0,25,0,58,0,0.431034483
+Casa Blanca II,23,0,0,0,0,3,0,0
+Casablanca (Hacienda),23,22,0,7,0,35,0,0.2
+Casablanca Sector Bellavista,27,15,0,8,0,20,0,0.4
+Casablanca Sector El Plan,23,13,0,10,0,20,0,0.5
+Castañuela II,24,10,0,9,0,17,0,0.529411765
+Cedritos,13,568,0,209,0,367,0,0.569482289
+Cedro Bolívar,13,187,0,90,0,175,0,0.514285714
+Cedro Bolívar II Sector,13,76,0,42,0,92,0,0.456521739
+Cedro Madeira,13,20,0,13,0,36,0,0.361111111
+Cedro Narváez,13,91,0,45,0,78,0,0.576923077
+Cedro Norte,11,9,0,8,0,19,0,0.421052632
+Cedro Salazar,13,271,0,159,0,441,0,0.360544218
+Centro Industrial de Construcción,76,21,0,11,0,18,0,0.611111111
+Centro Norte Usaquén,14,2,0,2,0,5,0,0.4
+Cerros Norte,11,36,0,21,0,123,0,0.170731707
+Cerros de Niza,24,19,0,17,0,26,0,0.653846154
+Cerros de Santa Bárbara,14,2,0,2,0,17,0,0.117647059
+Chaparral,9,4,0,2,0,2,0,1
+Chico Norte - Urb. Conjunto de la Cien,97,0,0,0,0,19,0,0
+Chico Norte - Urb. La Gran Vía,97,21,0,15,0,62,0,0.241935484
+Chico Reservado,88,22,0,16,0,71,0,0.225352113
+Chico Reservado II Sector,97,96,0,48,0,186,0,0.258064516
+Ciudad Bachue II Etapa,29,20,0,12,0,23,0,0.52173913
+Ciudad Hunza,28,3,0,2,0,8,0,0.25
+Ciudad Hunza - El Jordán,28,14,0,8,0,12,0,0.666666667
+Ciudad Jardín Norte,24,598,0,246,0,391,0,0.62915601
+Ciudad Mónaco,26,26,0,19,0,64,0,0.296875
+Ciudadela Colsubsidio,72,35,0,25,0,56,0,0.446428571
+Ciudadela Colsubsidio 4 Sector,72,0,0,0,0,2,0,0
+Ciudadela Industrial El Dorado,116,134,0,61,0,126,0,0.484126984
+Coasmedas,25,23,0,17,0,33,0,0.515151515
+Colina Campestre I Sector,24,53,0,32,0,55,0,0.581818182
+Colina Campestre III Sector,24,17,0,4,0,4,0,1
+Colina Campestre IV Sector,24,201,0,81,0,109,0,0.743119266
+Colpatria Santa Helena,19,63,0,34,0,148,0,0.22972973
+Colpatria Santa Helena II Sector,23,95,0,57,0,128,0,0.4453125
+Compartir Suba,27,40,0,9,0,11,0,0.818181818
+Congreso Eucarístico,29,21,0,15,0,42,0,0.357142857
+Costa Azul I Etapa,28,7,0,4,0,6,0,0.666666667
+Costa Azul II Etapa,28,229,0,72,0,91,0,0.791208791
+Costa Azul III Etapa,28,30,0,14,0,19,0,0.736842105
+Costa Rica,28,72,0,32,0,62,0,0.516129032
+Country Club,15,123,0,61,0,158,0,0.386075949
+Country Comodoro,15,14,0,5,0,6,0,0.833333333
+Danubio Centauros,74,52,0,28,0,60,0,0.466666667
+Danubio Occidental,11,12,0,3,0,3,0,1
+Delicias del Carmen,14,28,0,10,0,21,0,0.476190476
+Desarrollo Villa Blanca,28,0,0,0,0,3,0,0
+Don Manuel - Los Arrayanes,20,26,0,13,0,36,0,0.361111111
+Dorado Norte,11,4,0,3,0,8,0,0.375
+Dorado_Norte,26,41,0,24,0,43,0,0.558139535
+El Batan,20,113,0,78,0,330,0,0.236363636
+El Batan - Belomar,20,0,0,0,0,3,0,0
+El Bogotano II,117,41,0,23,0,68,0,0.338235294
+El Carmen,28,96,0,28,0,45,0,0.622222222
+El Carmen Tuna Baja,27,5,0,1,0,1,0,1
+El Cerro Occidental,11,17,0,7,0,17,0,0.411764706
+El Cerro Parte Baja (Villa Nydia),11,12,0,9,0,34,0,0.264705882
+El Charco,77,257,0,116,0,205,0,0.565853659
+El Codito,9,70,0,34,0,83,0,0.409638554
+El Contador,13,598,0,250,0,527,0,0.474383302
+El Cortijo (Finca),23,2,0,2,0,35,0,0.057142857
+El Danubio,11,18,0,5,0,6,0,0.833333333
+El Delirio,27,3,0,2,0,15,0,0.133333333
+El Divino Salvador,20,0,0,0,0,3,0,0
+El Doradito,116,0,0,0,0,4,0,0
+El Dorado Industrial - Santa Isabel (Hacienda),73,99,0,62,0,135,0,0.459259259
+El Edén,25,13,0,7,0,31,0,0.225806452
+El Encanto,31,18,0,10,0,71,0,0.14084507
+El Encanto - Urb. Aerolandia,31,1,0,1,0,3,0,0.333333333
+El Encanto - Urb. Los Nogales,31,1,0,1,0,2,0,0.5
+El Encenillal,3,2,0,2,0,15,0,0.133333333
+El Escorial,17,73,0,55,0,103,0,0.533980583
+El Estoril,20,42,0,30,0,121,0,0.247933884
+El Gaco - El Porvenir (Predio),73,153,0,73,0,129,0,0.565891473
+El Imperio,28,15,0,5,0,10,0,0.5
+El Jordán I,28,13,0,4,0,10,0,0.4
+El Jordán II,28,3,0,2,0,4,0,0.5
+El Jordán La Esperanza,28,2,0,2,0,20,0,0.1
+El Laurel - La Europa,26,42,0,23,0,39,0,0.58974359
+El Llano (Lote),23,3,0,2,0,4,0,0.5
+El Lujan,31,77,0,38,0,93,0,0.408602151
+El Manantial,26,240,0,121,0,278,0,0.435251799
+El Minuto de Dios,29,162,0,63,0,141,0,0.446808511
+El Minuto de Dios - La Catalina,29,4,0,3,0,4,0,0.75
+El Minuto de Dios - Los Lagos,29,0,0,0,0,4,0,0
+El Minuto de Dios - Urb. Lorena,29,4,0,2,0,3,0,0.666666667
+El Mirador II,74,11,0,6,0,7,0,0.857142857
+El Moral,11,23,0,11,0,18,0,0.611111111
+El Muelle I,74,8,0,8,0,17,0,0.470588235
+El Muelle II,74,49,0,28,0,80,0,0.35
+El Nogal,27,21,0,10,0,10,0,1
+El Otoño,9,17,0,5,0,6,0,0.833333333
+El Palmar I y II,74,31,0,11,0,18,0,0.611111111
+El Palmar III,74,0,0,0,0,6,0,0
+El Palmar IV,74,21,0,6,0,9,0,0.666666667
+El Paraíso,28,7,0,4,0,6,0,0.666666667
+El Paseo,26,1,0,1,0,12,0,0.083333333
+El Pañuelito,14,0,0,0,0,6,0,0
+El Pencil Barrio El Salitre,27,29,0,8,0,8,0,1
+El Pinar,19,177,0,79,0,207,0,0.381642512
+El Pinar de Suba,27,25,0,13,0,19,0,0.684210526
+El Pinar de Suba II,27,26,0,8,0,12,0,0.666666667
+El Pino,27,33,0,7,0,10,0,0.7
+El Pireo,9,3,0,1,0,2,0,0.5
+El Pite,10,9,0,5,0,7,0,0.714285714
+El Porvenir Norte - Granada Norte,18,0,0,0,0,4,0,0
+El Progreso,28,3,0,3,0,16,0,0.1875
+El Real,31,40,0,22,0,83,0,0.265060241
+El Redil,10,49,0,42,0,80,0,0.525
+El Refugio La Zelfita,76,14,0,10,0,18,0,0.555555556
+El Refugio de San Antonio,9,34,0,6,0,14,0,0.428571429
+El Retazo,23,3,0,3,0,15,0,0.2
+El Rincón - Urb. San Gabriel,28,12,0,7,0,8,0,0.875
+El Rincón Santa Helena,28,13,0,4,0,8,0,0.5
+El Rincón de Iberia,24,9,0,4,0,14,0,0.285714286
+El Rincón de las Villas,24,16,0,10,0,12,0,0.833333333
+El Ruby,28,63,0,21,0,31,0,0.677419355
+El Rubí de San Bernardo,28,4,0,2,0,4,0,0.5
+El Salitre,27,9,0,5,0,8,0,0.625
+El Salitre IV Sector,27,9,0,2,0,2,0,1
+El Santuario,27,13,0,6,0,13,0,0.461538462
+El Triángulo,76,12,0,6,0,9,0,0.666666667
+El Verbenal - Urb. Alquería 183,9,25,0,10,0,11,0,0.909090909
+El Verbenal I,9,188,0,61,0,72,0,0.847222222
+El Verbenal II Sector,9,92,0,28,0,33,0,0.848484848
+El Verdun,74,50,0,16,0,36,0,0.444444444
+El_Cortijo,72,27,0,15,0,21,0,0.714285714
+El_Jardín,11,252,0,70,0,102,0,0.68627451
+El_Laurel,28,13,0,7,0,14,0,0.5
+El_Lucero,74,25,0,11,0,24,0,0.458333333
+El_Mortiño,73,24,0,7,0,8,0,0.875
+El_Portal,76,36,0,23,0,50,0,0.46
+El_Triángulo_,74,13,0,9,0,27,0,0.333333333
+El_Vergel,15,12,0,3,0,5,0,0.6
+Engativa - La Verbena Villa Viviana,74,37,0,14,0,15,0,0.933333333
+Engativa - Urb. Muisca,74,17,0,3,0,3,0,1
+Engativa - Urb. Muisca II,74,12,0,3,0,3,0,1
+Entrerios,21,18,0,10,0,17,0,0.588235294
+Entrerios - Urb. Alma Industrial,21,53,0,15,0,27,0,0.555555556
+Escuela Militar,21,23,0,14,0,37,0,0.378378378
+Escuela de Caballería,14,87,0,58,0,185,0,0.313513514
+Escuela de Caballería II,14,3,0,1,0,50,0,0.02
+Escuela de Carabineros,23,7,0,4,0,11,0,0.363636364
+Escuela de Infantería,14,367,0,203,0,462,0,0.439393939
+Española III Sector,29,123,0,52,0,88,0,0.590909091
+Estrella del Norte,12,272,0,113,0,180,0,0.627777778
+Finca Moraga (Barracas),11,12,0,10,0,15,0,0.666666667
+Florencia,30,15,0,7,0,21,0,0.333333333
+Florencia 2,30,28,0,7,0,23,0,0.304347826
+Florida Blanca,30,236,0,120,0,308,0,0.38961039
+Garcés Navas,73,499,0,247,0,468,0,0.527777778
+Garcés Navas Oriental - Urb. El Pireo,73,42,0,24,0,40,0,0.6
+Gilmar,18,81,0,45,0,68,0,0.661764706
+Gilmar II,18,7,0,4,0,15,0,0.266666667
+Ginebra,14,5,0,4,0,9,0,0.444444444
+Ginebra Norte,14,84,0,50,0,88,0,0.568181818
+Gran Granada,73,92,0,25,0,55,0,0.454545455
+Gran Granada II Etapa,73,2,0,2,0,17,0,0.117647059
+Granada Norte,18,29,0,22,0,47,0,0.468085106
+Granada Norte Bariloche,18,0,0,0,0,3,0,0
+Gratamira,24,19,0,11,0,28,0,0.392857143
+Guicani,17,46,0,35,0,65,0,0.538461538
+Guillermo Núñez,28,8,0,5,0,13,0,0.384615385
+Hato Chico II (Predio),71,16,0,7,0,9,0,0.777777778
+Hipólito Restrepo,11,53,0,20,0,34,0,0.588235294
+Horizonte Salitre,27,46,0,11,0,15,0,0.733333333
+Horizontes,9,98,0,31,0,48,0,0.645833333
+Horizontes Usaquén,9,53,0,29,0,60,0,0.483333333
+Huertos de la Estancia,18,12,0,5,0,11,0,0.454545455
+Iberia,24,59,0,27,0,68,0,0.397058824
+Iberia - Altamira,24,1,0,1,0,9,0,0.111111111
+Iberia - Granada,24,39,0,23,0,87,0,0.264367816
+Iberia - Villa Leticia,24,1,0,1,0,13,0,0.076923077
+Iberia Portoalegre,24,62,0,15,0,22,0,0.681818182
+Iberia Segovia,24,7,0,3,0,3,0,1
+Ibiza,11,14,0,6,0,12,0,0.5
+Ilarco - Los Molinos de Ilarco,20,342,0,82,0,130,0,0.630769231
+Industrias Thury Ltda.,77,11,0,7,0,10,0,0.7
+Inzuca,11,73,0,16,0,22,0,0.727272727
+J.J. Vargas - José Joaquín Vargas,22,26,0,14,0,28,0,0.5
+Jaime Bermeo,28,30,0,9,0,16,0,0.5625
+Japón,28,99,0,42,0,86,0,0.488372093
+Jardines de Oriente,12,36,0,24,0,51,0,0.470588235
+Jardín Norte,12,126,0,44,0,60,0,0.733333333
+Java I Sector,27,18,0,10,0,17,0,0.588235294
+Java II Sector,28,17,0,8,0,19,0,0.421052632
+Java II Sector 2,28,106,0,41,0,58,0,0.706896552
+Jorge Eliécer Gaitan,22,50,0,27,0,89,0,0.303370787
+Julio Florez,25,113,0,40,0,67,0,0.597014925
+Julio Florez - Centro Industrial Bodegones la 68,26,80,0,35,0,73,0,0.479452055
+Julio Florez - Urb. Ingrura,26,0,0,0,0,3,0,0
+Julio Florez - Urb. Ocasa,25,22,0,4,0,11,0,0.363636364
+Kalatea,116,0,0,0,0,2,0,0
+Kasandra,77,21,0,7,0,10,0,0.7
+La Alborada,25,20,0,15,0,72,0,0.208333333
+La Alejandra Barrancas,11,12,0,6,0,8,0,0.75
+La Alhambra Sector Norte,20,798,0,173,0,235,0,0.736170213
+La Alhambra Sector Sur,20,354,0,110,0,257,0,0.428015564
+La Almeria_,30,53,0,26,0,44,0,0.590909091
+La Aurora,28,13,0,6,0,9,0,0.666666667
+La Bonanza,26,343,0,144,0,259,0,0.555984556
+La Cabaña,26,7,0,4,0,5,0,0.8
+La Cabaña (S.C. La Faena),74,26,0,9,0,13,0,0.692307692
+La Calleja,15,110,0,66,0,227,0,0.290748899
+La Calleja Santacoloma,15,20,0,13,0,58,0,0.224137931
+La Campiña,27,53,0,26,0,56,0,0.464285714
+La Castellana,21,379,0,161,0,348,0,0.462643678
+La Castellana - José Maria Carbonel,21,6,0,2,0,15,0,0.133333333
+La Castellana - Villa Calazans,21,1,0,1,0,3,0,0.333333333
+La Castellana Occidental,21,513,0,90,0,112,0,0.803571429
+La Cañada,13,2,0,2,0,9,0,0.222222222
+La Chucua - La Trinitaria,28,45,0,14,0,15,0,0.933333333
+La Cita,10,2,0,2,0,10,0,0.2
+La Clarita,30,138,0,74,0,127,0,0.582677165
+La Colina Campestre II Sector,24,233,0,61,0,122,0,0.5
+La Emilia,13,20,0,15,0,36,0,0.416666667
+La Estrada,26,339,0,152,0,245,0,0.620408163
+La Estrellita,9,2,0,1,0,3,0,0.333333333
+La Faena,74,29,0,15,0,28,0,0.535714286
+La Flor Ciudad Hunza,28,23,0,8,0,10,0,0.8
+La Floresta (Hacienda),3,6,0,3,0,8,0,0.375
+La Floresta Norte,25,7,0,5,0,26,0,0.192307692
+La Florida,30,5,0,3,0,6,0,0.5
+La Francia,28,8,0,4,0,8,0,0.5
+La Franja de Buenavista,9,2,0,2,0,5,0,0.4
+La Frontera,9,4,0,2,0,3,0,0.666666667
+La Giralda,75,14,0,8,0,32,0,0.25
+La Granja,30,165,0,84,0,202,0,0.415841584
+La Granja II,30,29,0,11,0,22,0,0.5
+La Granja Norte,10,64,0,54,0,135,0,0.4
+La Granja Oriental,10,18,0,6,0,18,0,0.333333333
+La Isabela I Etapa,31,111,0,58,0,120,0,0.483333333
+La Liberia,12,8,0,2,0,4,0,0.5
+La Libertad,22,98,0,39,0,97,0,0.402061856
+La Llanurita,9,9,0,4,0,4,0,1
+La Manuelita,28,31,0,6,0,8,0,0.75
+La Moneda Britalia,18,6,0,2,0,6,0,0.333333333
+La Paz,74,0,0,0,0,6,0,0
+La Pepita Norte,9,0,0,0,0,2,0,0
+La Perla,73,101,0,37,0,53,0,0.698113208
+La Perla Occidental,11,0,0,0,0,3,0,0
+La Perla Oriental,11,68,0,18,0,22,0,0.818181818
+La Riviera,74,126,0,44,0,70,0,0.628571429
+La Serena,29,122,0,61,0,149,0,0.409395973
+La Soledad Norte,30,105,0,58,0,114,0,0.50877193
+La Sultana,19,56,0,26,0,44,0,0.590909091
+La Tortigua,74,11,0,5,0,9,0,0.555555556
+"La Tortigua (Mz A,B,C,)",74,18,0,9,0,9,0,1
+"La Tortigua (Mz I,J)",74,4,0,3,0,3,0,1
+La Uribe,10,67,0,33,0,74,0,0.445945946
+La Victoria Norte,19,147,0,77,0,145,0,0.531034483
+La Victoria Oriental,17,17,0,15,0,20,0,0.75
+La_Carolina,15,231,0,101,0,208,0,0.485576923
+La_Esmeralda,28,4,0,3,0,4,0,0.75
+La_Primavera,29,40,0,23,0,60,0,0.383333333
+Lago de Suba,28,339,0,105,0,166,0,0.63253012
+Lagos de Córdoba,24,7,0,6,0,28,0,0.214285714
+Las Areneras,11,23,0,8,0,10,0,0.8
+Las Carolinas,29,3,0,1,0,2,0,0.5
+Las Ferias,26,190,0,107,0,272,0,0.393382353
+Las Ferias Occidental,26,275,0,125,0,241,0,0.518672199
+Las Galias,26,12,0,9,0,21,0,0.428571429
+Las Margaritas I Sector,13,131,0,58,0,147,0,0.394557823
+Las Margaritas II Sector,13,47,0,17,0,31,0,0.548387097
+Las Mercedes_,74,5,0,3,0,20,0,0.15
+Las Orquídeas,12,446,0,196,0,317,0,0.61829653
+Las Palmas,74,5,0,1,0,3,0,0.333333333
+Las Palmas Norte,29,14,0,4,0,7,0,0.571428571
+Las Salinas,30,25,0,13,0,42,0,0.30952381
+Las Villas Sector II,24,38,0,21,0,81,0,0.259259259
+Las Villas Sector III,24,92,0,50,0,196,0,0.255102041
+Las Villas de Mariana,23,0,0,0,0,8,0,0
+Las_Acacias,13,49,0,34,0,78,0,0.435897436
+Las_Flores,75,2,0,1,0,3,0,0.333333333
+Las_Margaritas,13,97,0,39,0,71,0,0.549295775
+Laureles II,74,0,0,0,0,14,0,0
+Linterama,74,25,0,6,0,6,0,1
+Lisboa_,13,375,0,144,0,300,0,0.48
+Lombardia II,27,27,0,13,0,21,0,0.619047619
+Los Almendros del norte,27,48,0,15,0,15,0,1
+Los Alpes II Sector,14,41,0,19,0,30,0,0.633333333
+Los Andes,25,10,0,5,0,5,0,1
+Los Andes - Urb. Calle Cien,21,11,0,9,0,14,0,0.642857143
+Los Andes - Urb. Malta,21,140,0,49,0,73,0,0.671232877
+Los Andes - Urb. Teusaca,21,11,0,7,0,20,0,0.35
+Los Andes - Vizcaya III Sector,21,2,0,2,0,4,0,0.5
+Los Arrayanes,28,8,0,4,0,7,0,0.571428571
+Los Arreboles,27,5,0,2,0,12,0,0.166666667
+Los Azafranes,31,34,0,21,0,59,0,0.355932203
+Los Caobos,13,69,0,35,0,58,0,0.603448276
+Los Cedritos,13,304,0,139,0,326,0,0.426380368
+Los Cedros,13,91,0,39,0,150,0,0.26
+Los Cedros Oriental,13,106,0,61,0,110,0,0.554545455
+Los Cerecitos y Los Cerezos,29,5,0,3,0,14,0,0.214285714
+Los Cerezos,29,2,0,1,0,2,0,0.5
+Los Cerezos Sector La Esperanza,29,8,0,4,0,8,0,0.5
+Los Cipreses,9,29,0,10,0,12,0,0.833333333
+Los Consuelos,9,1,0,1,0,3,0,0.333333333
+Los Laureles Sabanas del Dorado,74,111,0,52,0,93,0,0.559139785
+Los Monjes,31,43,0,23,0,149,0,0.154362416
+Los Naranjos,10,7,0,4,0,11,0,0.363636364
+Los Otoños,2,2,0,2,0,13,0,0.153846154
+Los Pinos Florencia,30,75,0,34,0,66,0,0.515151515
+Los Portales del Norte II,18,6,0,3,0,16,0,0.1875
+Los Portales del Norte III,18,36,0,20,0,33,0,0.606060606
+Los Sauces Norte,11,10,0,2,0,3,0,0.666666667
+Los Álamos,117,43,0,20,0,43,0,0.465116279
+Los Álamos - El Carmelo,30,108,0,39,0,66,0,0.590909091
+Los Álamos - Parque Industrial El Dorado,116,54,0,15,0,27,0,0.555555556
+Los Álamos - San Ignacio,116,57,0,26,0,87,0,0.298850575
+Los Álamos - Urb. Avianca,116,107,0,69,0,188,0,0.367021277
+Los Álamos - Urb. Industrial Parayas,116,24,0,12,0,22,0,0.545454545
+Los Álamos II Sector,73,40,0,28,0,84,0,0.333333333
+Los Álamos Sector Industrial,116,83,0,38,0,93,0,0.408602151
+Los Ángeles,73,25,0,9,0,28,0,0.321428571
+Los Ángeles - Portal de Santa Inés (Proyecto Urb.),116,43,0,24,0,51,0,0.470588235
+Los Ángeles - Urb. El Galeón,116,15,0,10,0,18,0,0.555555556
+Los Ángeles 2,116,48,0,34,0,86,0,0.395348837
+Los_Andes,21,179,0,102,0,341,0,0.299120235
+Los_Cerezos,29,54,0,32,0,56,0,0.571428571
+Los_Naranjos,28,10,0,3,0,4,0,0.75
+Luís Carlos Galán,29,127,0,42,0,66,0,0.636363636
+Magdala I Etapa,12,8,0,5,0,9,0,0.555555556
+Malibu,20,11,0,10,0,52,0,0.192307692
+Marandu,74,91,0,43,0,83,0,0.518072289
+Marandu - San Jacinto,74,16,0,9,0,21,0,0.428571429
+Marandu - Urb. Fiorita,74,14,0,9,0,12,0,0.75
+Maranta I y II y III Sector,9,134,0,51,0,114,0,0.447368421
+Mazuren,19,272,0,170,0,533,0,0.318949343
+Metrópolis,22,133,0,62,0,124,0,0.5
+Metrópolis_,26,73,0,37,0,78,0,0.474358974
+Milán Barrancas,11,23,0,11,0,15,0,0.733333333
+Minuto de Dios - La Tropical Copetroco,29,6,0,2,0,2,0,1
+Mirador de la Campiña II Sector,27,33,0,6,0,8,0,0.75
+Mirandela,17,17,0,7,0,20,0,0.35
+Mirandela (La Cartaja),17,90,0,67,0,105,0,0.638095238
+Molino del Viento,73,95,0,56,0,102,0,0.549019608
+Molinos Norte,16,84,0,43,0,84,0,0.511904762
+Montearroyo,13,0,0,0,0,2,0,0
+Nazaret (Predio),27,43,0,14,0,25,0,0.56
+Niza Norte,24,76,0,34,0,106,0,0.320754717
+Niza Norte - Ocales de Niza,24,4,0,3,0,6,0,0.5
+Niza Norte - Sotileza,24,0,0,0,0,3,0,0
+Niza Norte - Urb. Calatrava,24,12,0,10,0,35,0,0.285714286
+Niza Norte - Urb. Tumanaco,24,11,0,6,0,15,0,0.4
+Niza Suba - San Silvestre,24,0,0,0,0,3,0,0
+Niza Suba - San Tadeo San Lorenzo,24,8,0,2,0,2,0,1
+Niza Suba - Urb. La Arboleda de Suba,24,0,0,0,0,1,0,0
+Niza Sur,24,129,0,84,0,253,0,0.33201581
+Normandia - Conjunto Multifamiliar Colseguros,31,0,0,0,0,4,0,0
+Normandia - Urb. Nueva Normandia,31,0,0,0,0,6,0,0
+Normandia IV Sector,31,0,0,0,0,12,0,0
+Normandia Multifamiliar Covimac,31,1,0,1,0,10,0,0.1
+Nueva Tibabuyes - La Esmeralda,71,3,0,1,0,1,0,1
+Nueva Zelanda,17,27,0,8,0,11,0,0.727272727
+Nuevo Corinto,28,77,0,38,0,72,0,0.527777778
+Nuevo Country,13,12,0,8,0,88,0,0.090909091
+Nuevo Horizonte,9,30,0,10,0,12,0,0.833333333
+Nuevo Milenio (En Tramite),74,9,0,4,0,4,0,1
+Nuevo Monterrey,25,11,0,9,0,35,0,0.257142857
+Oikos Teucali San Antonio,28,15,0,4,0,4,0,1
+Palma Aldea,28,170,0,53,0,76,0,0.697368421
+Palo Blanco,26,63,0,23,0,43,0,0.534883721
+Pantanito,12,39,0,16,0,25,0,0.64
+Paris Francia,30,14,0,5,0,10,0,0.5
+Parques de Lorena,13,83,0,48,0,88,0,0.545454545
+Parques del Campo,71,15,0,5,0,5,0,1
+Pasadena - Conjunto El Rincón de la 100,20,71,0,20,0,29,0,0.689655172
+Piedra Herrada,23,0,0,0,0,4,0,0
+Pinar de la Calleja,15,0,0,0,0,6,0,0
+Pirámide,74,13,0,9,0,18,0,0.5
+Plazuelas del Virrey,73,74,0,37,0,68,0,0.544117647
+Plenitud La Calleja,15,34,0,16,0,35,0,0.457142857
+Polo Club,98,87,0,38,0,92,0,0.413043478
+Portales del Norte - La Candelaria,18,2,0,1,0,3,0,0.333333333
+Portales del Norte Urb. San Pedro,18,5,0,2,0,5,0,0.4
+Porvenir,74,72,0,30,0,46,0,0.652173913
+Potosí,25,44,0,25,0,33,0,0.757575758
+Prado Centro,19,2,0,2,0,4,0,0.5
+Prado Pinzon,19,194,0,89,0,169,0,0.526627219
+Prado Pinzon - Santa Carolina,19,6,0,4,0,7,0,0.571428571
+Prado Pinzon Urb. Tehorlu,19,1,0,1,0,3,0,0.333333333
+Prado Sur,19,126,0,49,0,89,0,0.550561798
+Prado Veraniego,19,510,0,199,0,382,0,0.520942408
+Prado Veraniego Norte - La Hacienda,24,19,0,13,0,33,0,0.393939394
+Prado Veraniego Norte - Urb. Vivaral,24,11,0,3,0,3,0,1
+Prado Veraniego Sur,19,95,0,64,0,145,0,0.44137931
+Prado Veraniego Sur - Córdoba Niza IX,19,30,0,12,0,29,0,0.413793103
+Prados de Suba,27,0,0,0,0,1,0,0
+Puente Largo III Sector,20,60,0,33,0,100,0,0.33
+Puente Largo Sector I y II,20,116,0,51,0,108,0,0.472222222
+Puerta de Teja,115,8,0,5,0,9,0,0.555555556
+Puerta de_Teja,115,46,0,30,0,64,0,0.46875
+Puerto Amor Playas del Jaboque,74,33,0,8,0,10,0,0.8
+Quirigua (Agrupación 1),29,44,0,12,0,16,0,0.75
+Quirigua Central,29,462,0,150,0,229,0,0.655021834
+Quirigua Plan Sidauto,29,22,0,12,0,17,0,0.705882353
+Quirigua Sector F,29,72,0,24,0,34,0,0.705882353
+Recodo del Country,15,17,0,10,0,20,0,0.5
+Refugio del Norte,30,3,0,2,0,3,0,0.666666667
+Reservas de la Sierra - La Arboleda,14,12,0,8,0,12,0,0.666666667
+Rincón El Cóndor,28,18,0,7,0,9,0,0.777777778
+Rincón Escuela,28,17,0,5,0,23,0,0.217391304
+Rincón de Santa Inés Compartir Suba,71,3,0,1,0,2,0,0.5
+Rincón de Santa Paula,16,24,0,17,0,34,0,0.5
+Rincón de Suba,28,173,0,79,0,141,0,0.560283688
+Rincón de Suba Sector Lagos de la Frontera,28,49,0,24,0,48,0,0.5
+Rincón de las Villas,19,15,0,8,0,11,0,0.727272727
+Rincón del Cedro,13,88,0,40,0,93,0,0.430107527
+Rincón del Chico,16,184,0,92,0,282,0,0.326241135
+Rincón del Karmel,18,0,0,0,0,8,0,0
+Rincón del Puente - Quinta Catania,9,122,0,72,0,111,0,0.648648649
+Rionegro,21,361,0,174,0,365,0,0.476712329
+Riviera Norte,19,2,0,1,0,1,0,1
+S C Casablanca Suba,23,13,0,10,0,28,0,0.357142857
+S C. Casablanca Suba,2,20,0,8,0,33,0,0.242424242
+S C. Julio Florez,25,0,0,0,0,4,0,0
+S C. Tuna Alta,27,67,0,20,0,30,0,0.666666667
+S.C Altos de Chozica,28,38,0,21,0,57,0,0.368421053
+S.C Atenas,23,0,0,0,0,6,0,0
+S.C Britalia,18,4,0,3,0,11,0,0.272727273
+S.C Ferrocaja,115,23,0,11,0,18,0,0.611111111
+S.C Julio Florez,26,9,0,6,0,12,0,0.5
+S.C Prado Veraniego Norte,24,86,0,41,0,78,0,0.525641026
+S.C Salitre Suba,27,42,0,15,0,33,0,0.454545455
+S.C Suba Urbano,27,21,0,11,0,18,0,0.611111111
+S.C Tuna Alta,27,15,0,4,0,6,0,0.666666667
+S.C Tuna Baja,27,1,0,1,0,2,0,0.5
+S.C. Aeropuerto El Dorado,117,1399,0,677,0,1465,0,0.462116041
+S.C. Andes Norte,25,182,0,67,0,108,0,0.62037037
+S.C. Atenas,23,195,0,68,0,90,0,0.755555556
+S.C. Autopista Medellín,29,94,0,56,0,98,0,0.571428571
+S.C. Barrancas,11,17,0,6,0,18,0,0.333333333
+S.C. Barrancas Oriental,11,27,0,18,0,40,0,0.45
+S.C. Batan,24,207,0,113,0,250,0,0.452
+S.C. Bellavista Occidental,26,57,0,34,0,79,0,0.430379747
+S.C. Bosque de Pinos,11,101,0,22,0,26,0,0.846153846
+S.C. Boyacá,30,292,0,131,0,276,0,0.474637681
+S.C. Chico Norte,97,283,0,117,0,465,0,0.251612903
+S.C. Chico Norte III Sector,97,341,0,169,0,658,0,0.256838906
+S.C. Ciudad Jardín Norte,24,67,0,49,0,105,0,0.466666667
+S.C. Club de los Lagartos,25,99,0,52,0,75,0,0.693333333
+S.C. El Charco (Rural),77,81,0,43,0,75,0,0.573333333
+S.C. El Chico,97,60,0,25,0,84,0,0.297619048
+S.C. El Dorado Industrial,73,1,0,1,0,14,0,0.071428571
+S.C. El Gaco,74,10,0,7,0,40,0,0.175
+S.C. El Laurel,26,48,0,22,0,61,0,0.360655738
+S.C. El Poa,27,7,0,2,0,3,0,0.666666667
+S.C. El Redil,10,18,0,12,0,19,0,0.631578947
+S.C. El Verbenal,9,106,0,45,0,84,0,0.535714286
+S.C. Engativa El Dorado,73,88,0,49,0,110,0,0.445454545
+S.C. Engativa Zona Urbana,74,209,0,65,0,77,0,0.844155844
+S.C. Estoril,20,111,0,49,0,95,0,0.515789474
+S.C. Gilmar - La Sirena (Predio),23,118,0,63,0,177,0,0.355932203
+S.C. Granada Norte,18,46,0,26,0,64,0,0.40625
+S.C. Horizontes Norte,10,80,0,51,0,87,0,0.586206897
+S.C. Julio Florez,25,27,0,7,0,8,0,0.875
+S.C. La Carolina,15,145,0,46,0,69,0,0.666666667
+S.C. La Faena,74,12,0,5,0,10,0,0.5
+S.C. La Patria - Barrio San Martín,21,99,0,66,0,143,0,0.461538462
+S.C. La Riviera,74,8,0,5,0,8,0,0.625
+S.C. Las Mercedes Suba,27,4,0,3,0,3,0,1
+S.C. Las Villas,24,281,0,102,0,201,0,0.507462687
+S.C. Los Álamos,116,108,0,48,0,91,0,0.527472527
+S.C. Los Álamos_,116,38,0,24,0,67,0,0.358208955
+S.C. Los Ángeles,116,80,0,28,0,43,0,0.651162791
+S.C. Los_Naranjos,28,16,0,9,0,26,0,0.346153846
+S.C. Mirandela,17,214,0,189,0,360,0,0.525
+S.C. Mónaco,24,8,0,5,0,20,0,0.25
+S.C. Niza Norte,24,49,0,36,0,113,0,0.318584071
+S.C. Niza Suba,24,36,0,30,0,44,0,0.681818182
+S.C. Normandia Occidental,31,21,0,14,0,63,0,0.222222222
+S.C. Paris Gaitan,29,218,0,121,0,306,0,0.395424837
+S.C. Pasadena,20,215,0,95,0,219,0,0.433789954
+S.C. Portales del Norte,18,136,0,58,0,114,0,0.50877193
+S.C. Potosí,25,3,0,2,0,3,0,0.666666667
+S.C. Prado Veraniego Norte,19,310,0,112,0,150,0,0.746666667
+S.C. Prado Veraniego Sur,19,3,0,3,0,9,0,0.333333333
+S.C. Primavera,29,20,0,5,0,19,0,0.263157895
+S.C. Puente Grande,76,264,0,119,0,216,0,0.550925926
+S.C. Páramo_,14,3,0,1,0,7,0,0.142857143
+S.C. Salitre Suba,27,5,0,1,0,1,0,1
+S.C. San Ignacio,116,97,0,60,0,141,0,0.425531915
+S.C. San José de Fontibón,115,9,0,8,0,12,0,0.666666667
+S.C. San Norte,14,1,0,1,0,13,0,0.076923077
+S.C. Santa Helenita,30,641,0,192,0,370,0,0.518918919
+S.C. Santa Rosa,26,54,0,20,0,41,0,0.487804878
+S.C. Santa Teresa de Suba,28,13,0,3,0,4,0,0.75
+S.C. Suba Urbano,27,279,0,93,0,152,0,0.611842105
+S.C. Tabora,30,514,0,158,0,282,0,0.560283688
+S.C. Tibabita,1,24,0,8,0,26,0,0.307692308
+S.C. Tuna Baja,27,18,0,6,0,7,0,0.857142857
+S.C. Vereda Suba Cerros,23,0,0,0,0,13,0,0
+S.C. Villa Elisa,28,143,0,31,0,32,0,0.96875
+S.C. Villa Gladys,74,92,0,43,0,71,0,0.605633803
+S.C. Villa Hermosa,27,4,0,2,0,3,0,0.666666667
+Sabana del Dorado - San Luís (En Tramite),74,0,0,0,0,1,0,0
+Sabanalarga,15,18,0,10,0,40,0,0.25
+Sabanas del Dorado I,74,9,0,5,0,13,0,0.384615385
+Salamanca y Catalayud,23,4,0,1,0,4,0,0.25
+San,14,9,0,7,0,21,0,0.333333333
+San Antonio (Hacienda),9,0,0,0,0,6,0,0
+San Antonio Noroccidental,10,59,0,21,0,51,0,0.411764706
+San Antonio Norte,9,142,0,100,0,209,0,0.4784689
+San Antonio Norte - Codabas,10,45,0,28,0,39,0,0.717948718
+San Antonio Norte II Sector,9,214,0,83,0,128,0,0.6484375
+San Antonio_,28,4,0,3,0,4,0,0.75
+San Antonio_Norte,74,88,0,35,0,72,0,0.486111111
+San Basilio,73,84,0,28,0,35,0,0.8
+San Bernardo,16,4,0,2,0,4,0,0.5
+San Cayetano,28,79,0,47,0,88,0,0.534090909
+San Cayetano Norte,116,4,0,2,0,60,0,0.033333333
+San Cayetano__,30,31,0,14,0,32,0,0.4375
+San Cristóbal Norte,11,152,0,74,0,102,0,0.725490196
+San Cristóbal Norte 2,11,95,0,48,0,75,0,0.64
+San Fernando Occidental,22,88,0,48,0,167,0,0.28742515
+San Francisco Norte,27,5,0,4,0,14,0,0.285714286
+San Ignacio,31,3,0,2,0,12,0,0.166666667
+San Isidro Norte,28,92,0,22,0,23,0,0.956521739
+San Joaquín,26,43,0,18,0,29,0,0.620689655
+San Joaquín Norte,26,37,0,18,0,39,0,0.461538462
+San José De Bavaria,17,87,0,63,0,179,0,0.351955307
+San José Obrero,74,2,0,1,0,1,0,1
+San José V Sector,18,92,0,48,0,130,0,0.369230769
+San José de Usaquén,10,36,0,16,0,43,0,0.372093023
+San José de Usaquén - Urb. Argo,9,32,0,17,0,35,0,0.485714286
+San José de Usaquén - Urb. Los Bosques,9,36,0,17,0,27,0,0.62962963
+San José del Prado,19,295,0,152,0,301,0,0.504983389
+San José del Prado - Agrupación de Vivienda Calua,19,0,0,0,0,3,0,0
+San José del Prado - Fuerteventura,19,52,0,28,0,50,0,0.56
+San José del Prado - Urb. Echeverría,24,121,0,56,0,112,0,0.5
+San José del Prado - Urb. La Manuelita,19,2,0,1,0,9,0,0.111111111
+San Juan Bosco,10,13,0,9,0,37,0,0.243243243
+San Juan Suba,28,7,0,4,0,8,0,0.5
+San Marcos,31,0,0,0,0,4,0,0
+San Nicolás,25,560,0,147,0,240,0,0.6125
+San Norte,14,7,0,4,0,13,0,0.307692308
+San Pablo Jericó,76,230,0,123,0,233,0,0.527896996
+San Patricio,16,505,0,220,0,523,0,0.420650096
+San Pedro III,28,11,0,2,0,2,0,1
+San Rafael Norte,24,53,0,31,0,52,0,0.596153846
+San Simón (Hacienda),3,0,0,0,0,9,0,0
+San_Jorge,28,11,0,3,0,4,0,0.75
+Santa Ana Occidental,14,745,0,400,0,716,0,0.558659218
+Santa Ana Oriental,14,116,0,86,0,337,0,0.255192878
+Santa Bibiana,16,556,0,210,0,543,0,0.386740331
+Santa Bárbara Alta,14,138,0,66,0,214,0,0.308411215
+Santa Bárbara Central I Sector,16,342,0,117,0,244,0,0.479508197
+Santa Bárbara Central I y II,16,327,0,154,0,299,0,0.515050167
+Santa Bárbara Central II,16,68,0,34,0,103,0,0.330097087
+Santa Bárbara Central II Sector,16,169,0,42,0,90,0,0.466666667
+Santa Bárbara Central III Sector,16,328,0,103,0,205,0,0.502439024
+Santa Bárbara Central IV Sector,16,141,0,61,0,135,0,0.451851852
+Santa Bárbara City Hall,16,0,0,0,0,1,0,0
+Santa Bárbara Norte,16,129,0,61,0,133,0,0.458646617
+Santa Bárbara Occidental,16,1638,0,510,0,824,0,0.618932039
+Santa Bárbara Oriental,14,444,0,213,0,318,0,0.669811321
+Santa Cecilia,114,2,0,1,0,4,0,0.25
+Santa Cecilia_,31,12,0,11,0,128,0,0.0859375
+Santa Helena - Puerta de Hierro Las Acacias,19,42,0,10,0,10,0,1
+Santa Helena Bosque de Casigua,19,0,0,0,0,1,0,0
+Santa Helena_,19,8,0,3,0,6,0,0.5
+Santa Margarita,20,37,0,24,0,133,0,0.180451128
+Santa Maria - Recinto de San Francisco,30,2,0,2,0,2,0,1
+Santa Maria I y II Sector,30,192,0,92,0,191,0,0.481675393
+Santa Maria del Lago,30,66,0,32,0,74,0,0.432432432
+Santa Mónica,12,11,0,6,0,13,0,0.461538462
+Santa Mónica - Urb. El Pedregal,73,24,0,6,0,7,0,0.857142857
+Santa Rosa,25,53,0,28,0,98,0,0.285714286
+Santa Rosa - Urb. Tropicream,25,1,0,1,0,3,0,0.333333333
+Santa Rosita,30,347,0,135,0,278,0,0.485611511
+Santa Teresa,10,307,0,146,0,301,0,0.485049834
+Santa_Catalina,17,5,0,5,0,7,0,0.714285714
+Santa_Cecilia,115,220,0,95,0,191,0,0.497382199
+Santa_Maria,9,6,0,3,0,11,0,0.272727273
+Santa_Mónica,27,16,0,9,0,12,0,0.75
+Santa_Mónica_,73,67,0,30,0,50,0,0.6
+Santandersito,9,23,0,11,0,16,0,0.6875
+Santiago III,75,37,0,19,0,35,0,0.542857143
+Sauces de Suba,28,23,0,6,0,6,0,1
+Senderos de la Esperanza,27,4,0,2,0,3,0,0.666666667
+Serranías de Suba,28,17,0,2,0,3,0,0.666666667
+Sierras del Chico,88,118,0,75,0,181,0,0.414364641
+Sierras del Moral,13,0,0,0,0,2,0,0
+Simón Bolívar,22,154,0,65,0,153,0,0.424836601
+Suba Linda,28,42,0,14,0,16,0,0.875
+Taberin,28,5,0,4,0,26,0,0.153846154
+Tardes de San José,9,28,0,15,0,25,0,0.6
+Tejares del Norte,17,20,0,5,0,12,0,0.416666667
+Telecom Arrayanes,28,96,0,40,0,87,0,0.459770115
+Teusaca,25,40,0,18,0,44,0,0.409090909
+Teusaquillo de Suba,28,4,0,2,0,2,0,1
+Tibabita,9,26,0,16,0,42,0,0.380952381
+Tibabita I,9,3,0,3,0,16,0,0.1875
+Tibabita I Sector,9,21,0,11,0,17,0,0.647058824
+Tibabita II,9,78,0,33,0,74,0,0.445945946
+Tibabuyes I Sector,28,186,0,61,0,67,0,0.910447761
+Tibabuyes II Sector 2,28,7,0,3,0,4,0,0.75
+Tierra Firme,115,0,0,0,0,2,0,0
+Tisquesusa,29,26,0,13,0,38,0,0.342105263
+Toberín,12,627,0,215,0,329,0,0.653495441
+Toberín Oriental,12,12,0,6,0,12,0,0.5
+Toledo,15,25,0,8,0,12,0,0.666666667
+Torca,1,0,0,0,0,30,0,0
+Torquigua,74,1,0,1,0,24,0,0.041666667
+Torredon,30,8,0,6,0,8,0,0.75
+Torreladera,27,20,0,10,0,15,0,0.666666667
+Torres del Country,15,6,0,4,0,8,0,0.5
+Torres del Diamante,31,7,0,3,0,18,0,0.166666667
+Tuna Alta,27,34,0,19,0,44,0,0.431818182
+Tuna Alta Almeira,27,26,0,10,0,10,0,1
+Tuna Baja III y III A,27,16,0,4,0,4,0,1
+Urb. Acapulco,26,4,0,3,0,5,0,0.6
+Urb. Alhambra Sur Oriental,20,7,0,4,0,7,0,0.571428571
+Urb. Altamar,28,14,0,5,0,13,0,0.384615385
+Urb. Altos de Zarzamora,30,29,0,8,0,9,0,0.888888889
+Urb. Ambalo,18,2,0,2,0,4,0,0.5
+Urb. Antonio Granados,28,69,0,22,0,27,0,0.814814815
+Urb. Arcos de Cantalejo,18,12,0,5,0,7,0,0.714285714
+Urb. Avenida Centenario,75,36,0,21,0,45,0,0.466666667
+Urb. Balcón de Suba,28,6,0,4,0,4,0,1
+Urb. Boca Colina,24,29,0,12,0,21,0,0.571428571
+Urb. Bochalema,28,10,0,4,0,11,0,0.363636364
+Urb. Camino Verde,27,8,0,3,0,7,0,0.428571429
+Urb. Caminos de Atlanta,18,8,0,3,0,6,0,0.5
+Urb. Carimagua I,18,36,0,24,0,64,0,0.375
+Urb. Carimagua II,18,10,0,4,0,15,0,0.266666667
+Urb. Carrera 32 186-07,9,0,0,0,0,3,0,0
+Urb. Cerros 170,18,7,0,7,0,10,0,0.7
+Urb. Choasuca,17,27,0,26,0,50,0,0.52
+Urb. Cofradía,115,3,0,2,0,3,0,0.666666667
+Urb. Cofradía II Sector,115,1,0,1,0,8,0,0.125
+Urb. Colina Norte II Etapa,24,44,0,25,0,78,0,0.320512821
+Urb. El Alcázar de Suba,27,13,0,5,0,6,0,0.833333333
+Urb. El Bosque de Suba,28,25,0,7,0,7,0,1
+Urb. El Campito,14,17,0,8,0,16,0,0.5
+Urb. El Carmelo,30,45,0,9,0,13,0,0.692307692
+Urb. El Cebadero,14,191,0,61,0,76,0,0.802631579
+Urb. El Lago del Paraíso,27,11,0,3,0,7,0,0.428571429
+Urb. El Moral,19,28,0,8,0,12,0,0.666666667
+Urb. El Palmar,9,20,0,10,0,19,0,0.526315789
+Urb. El Portal de la Fontana,27,19,0,11,0,14,0,0.785714286
+Urb. El Pórtico y Los Remansos,28,52,0,23,0,34,0,0.676470588
+Urb. El Totumo,27,0,0,0,0,3,0,0
+Urb. El Triunfo,75,0,0,0,0,3,0,0
+Urb. Entre Ríos,22,10,0,5,0,8,0,0.625
+Urb. Entre Ríos Zona Industrial,21,3,0,2,0,5,0,0.4
+Urb. Eucaliptos de la Colina,23,2,0,2,0,5,0,0.4
+Urb. Floresta III (Sauces II),25,12,0,4,0,7,0,0.571428571
+Urb. Floresta Norte II Sector,25,6,0,3,0,4,0,0.75
+Urb. Gavilanes,71,7,0,5,0,7,0,0.714285714
+Urb. Iberia Triángulo,24,53,0,20,0,29,0,0.689655172
+Urb. Jardines del Norte,12,2,0,1,0,15,0,0.066666667
+Urb. La Chocita,18,23,0,11,0,32,0,0.34375
+Urb. La Floresta IV Sector,25,2,0,2,0,9,0,0.222222222
+Urb. La Floresta Reservada,25,0,0,0,0,2,0,0
+Urb. La Floresta V Sector,25,31,0,20,0,41,0,0.487804878
+Urb. La Manuelita,28,67,0,15,0,18,0,0.833333333
+Urb. La Pradera,12,24,0,12,0,55,0,0.218181818
+Urb. La Sirena,23,99,0,41,0,99,0,0.414141414
+Urb. Lagos de Córdoba,20,116,0,22,0,23,0,0.956521739
+Urb. Las Orquídeas,12,3,0,2,0,3,0,0.666666667
+Urb. Los Eliseos,18,16,0,13,0,39,0,0.333333333
+Urb. Los Sauces,25,9,0,6,0,30,0,0.2
+Urb. Maitrella,27,28,0,6,0,6,0,1
+Urb. Mendiguaca,21,6,0,4,0,12,0,0.333333333
+Urb. Oviedo,27,11,0,3,0,3,0,1
+Urb. Parque Afir,115,19,0,10,0,22,0,0.454545455
+Urb. Parque Industrial Villa Concha,25,2,0,2,0,4,0,0.5
+Urb. Parques de la Colina,24,9,0,8,0,13,0,0.615384615
+Urb. Picadelly,18,12,0,7,0,9,0,0.777777778
+Urb. Piedemonte,23,1,0,1,0,1,0,1
+Urb. Plaza Baviera,17,23,0,6,0,6,0,1
+Urb. Pontevedra Sector I,25,232,0,76,0,147,0,0.517006803
+Urb. Portales del Norte I,23,0,0,0,0,3,0,0
+Urb. Puerto Sol,28,11,0,7,0,7,0,1
+Urb. Quintas de la Sabana,9,6,0,4,0,6,0,0.666666667
+Urb. San Antonio,28,58,0,16,0,18,0,0.888888889
+Urb. San Antonio Norte,9,32,0,9,0,16,0,0.5625
+Urb. San Diego,18,8,0,3,0,6,0,0.5
+Urb. San Pedro,17,20,0,9,0,19,0,0.473684211
+Urb. San Rafael Norte I,24,25,0,10,0,20,0,0.5
+Urb. San Rafael Norte II,19,26,0,11,0,17,0,0.647058824
+Urb. Santacoloma,15,0,0,0,0,24,0,0
+Urb. Santiago,75,21,0,10,0,35,0,0.285714286
+Urb. Simón Bolívar,22,0,0,0,0,10,0,0
+Urb. Torres de Madeira,11,30,0,6,0,6,0,1
+Urb. Torres de Suba,28,78,0,18,0,23,0,0.782608696
+Urb. Valbella,14,13,0,11,0,18,0,0.611111111
+Urb. Versalles,19,67,0,37,0,70,0,0.528571429
+Usaquén,14,291,0,117,0,223,0,0.524663677
+Usaquén - Urb. Portal de Siena,14,0,0,0,0,4,0,0
+Veracruz,30,17,0,8,0,20,0,0.4
+Veracruz II Sector,115,280,0,136,0,219,0,0.621004566
+Veracruz_,115,3,0,2,0,3,0,0.666666667
+Vereda Tibabuyes - Fontanar del Río,71,11,0,6,0,16,0,0.375
+Versalles y Los Cerezos,28,67,0,11,0,13,0,0.846153846
+Villa Amalia,73,130,0,46,0,73,0,0.630136986
+Villa Beatriz,75,13,0,11,0,24,0,0.458333333
+Villa Catalina III Sector,28,73,0,22,0,24,0,0.916666667
+Villa Claver I y II,74,115,0,45,0,62,0,0.725806452
+Villa Constanza,74,28,0,12,0,15,0,0.8
+Villa Cristina,29,22,0,14,0,36,0,0.388888889
+Villa Cristina III Etapa,29,0,0,0,0,3,0,0
+Villa Del Mar - Urb. Tierragrata,73,78,0,29,0,70,0,0.414285714
+Villa Delia Britalia Norte,18,8,0,4,0,6,0,0.666666667
+Villa El Dorado Norte,74,21,0,11,0,38,0,0.289473684
+Villa Elisa,28,158,0,55,0,68,0,0.808823529
+Villa Elisa - El Aguinaldo,28,2,0,1,0,6,0,0.166666667
+Villa Elisa - Urb. Villa Estella,28,14,0,3,0,5,0,0.6
+Villa Esperanza,28,22,0,8,0,11,0,0.727272727
+Villa Flor,76,7,0,4,0,6,0,0.666666667
+Villa Gladys,74,113,0,55,0,113,0,0.486725664
+Villa Gladys IV Sector,74,32,0,14,0,18,0,0.777777778
+Villa Gladys Sector La Manzana,74,13,0,13,0,27,0,0.481481481
+Villa Gladys Sector San Luís,74,6,0,2,0,3,0,0.666666667
+Villa Magdala,12,127,0,69,0,161,0,0.428571429
+Villa Maria,28,0,0,0,0,1,0,0
+Villa Maria I Sector,71,52,0,9,0,12,0,0.75
+Villa Mary,74,3,0,3,0,7,0,0.428571429
+Villa Olga,18,1,0,1,0,2,0,0.5
+Villa Oliva - Villa del Carmen,11,135,0,42,0,61,0,0.68852459
+Villa Sagrario,73,35,0,12,0,29,0,0.413793103
+Villa Sandra,74,25,0,10,0,18,0,0.555555556
+Villa Susana,27,2,0,2,0,3,0,0.666666667
+Villa Teresita,74,8,0,5,0,22,0,0.227272727
+Villa del Carmen,11,6,0,2,0,3,0,0.666666667
+Villa del Prado,17,225,0,98,0,266,0,0.368421053
+Villa_Alexandra,28,15,0,6,0,10,0,0.6
+Villaluz,31,277,0,108,0,403,0,0.267990074
+Villanova II,17,17,0,8,0,10,0,0.8
+Villas de Alcalá - Altamira (Hacienda),73,87,0,48,0,113,0,0.424778761
+Villas de Alcalá - Los Cerezos,73,55,0,30,0,75,0,0.4
+Villas de Andalucía,9,21,0,6,0,7,0,0.857142857
+Villas de Aranjuez,12,144,0,40,0,65,0,0.615384615
+Villas de Granada,73,353,0,112,0,153,0,0.732026144
+Villas del Dorado San Antonio,73,5,0,2,0,6,0,0.333333333
+Villas del Dorado San Antonio II Sector,74,5,0,4,0,10,0,0.4
+Villas del Madrigal,73,168,0,45,0,88,0,0.511363636
+Villas del Mediterráneo,12,76,0,30,0,109,0,0.275229358
+Villas del Rincón,28,50,0,25,0,33,0,0.757575758
+Viña del_Mar,74,24,0,15,0,36,0,0.416666667
+Zarzamora,30,58,0,25,0,51,0,0.490196078
+Zona Franca,77,154,0,72,0,115,0,0.626086957
+Zulima,9,74,0,33,0,45,0,0.733333333
+Álamos Norte,73,540,0,202,0,264,0,0.765151515
+Álamos Norte Sector Nor-Oriental,73,50,0,16,0,34,0,0.470588235
+,,161,0,70,0,160,0,0.4375
